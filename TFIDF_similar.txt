@@ -1,0 +1,817 @@
+Sentence:Oh yeah?! My mom took me to see Mel Gibson's movie, The Passion, and Mel Gibson says you are sneaks and you are liars. And if the Road Warrior says it, it must be true.
+Our similar 1: I don't believe it. She's using the Mel Gibson defense.
+Our similar 2: I know you don't. Get him out of here!  Aaand being that we are all big Mel Gibson film fans, we thought maybe you could help us.
+Our similar 3: Yeah. Say what you will about Mel Gibson, but the son of a bitch knows story structure. Get the videotape and do a background check on everyone in it!
+Our similar 4: That's all well and good, but we can do the Road Warrior. 
+Our similar 5: You're a liar!
+Ground Truth:Don't worry, Kyle. Craig's not gonna tell on us. Come, ninjas, let's go.  All right, this is it.
+
+Sentence:Don't worry, Kyle. Craig's not gonna tell on us. Come, ninjas, let's go.  All right, this is it.
+Our similar 1: No, I'm telling you. This isn't like Craig at all. I'm really worried.
+Our similar 2: All right, ninjas! Let's go protect the world!
+Our similar 3: What's your ninja name, Kenny?
+Our similar 4: Come on, Craig!
+Our similar 5: Come on, Craig!
+Ground Truth:Yes. The residence of the one called... Craig. 
+
+Sentence:Yes. The residence of the one called... Craig. 
+Our similar 1: Is this the Cartman residence?
+Our similar 2: Uh, is this the Stotch residence?
+Our similar 3: Craig.
+Our similar 4: That is Craig. 
+Our similar 5: All right, it was Craig. 
+Ground Truth:I still say this is a bad idea.
+
+Sentence:I still say this is a bad idea.
+Our similar 1: That's not a bad idea. But where?
+Our similar 2: Hey, that's not a bad idea.
+Our similar 3: (I told you it was a bad idea.)
+Our similar 4: I think that would be a very bad idea.
+Our similar 5: Uh Cartman, I think that's a really bad idea.
+Ground Truth:Ninja positions!  Hello, Craig!
+
+Sentence:Ninja positions!  Hello, Craig!
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: All right, ninjas! Let's go protect the world!
+Our similar 3: Yeah. We wanna get one of each of these ninja weapons.
+Our similar 4: Craig.
+Our similar 5: That is Craig. 
+Ground Truth:Look what we got.
+
+Sentence:Look what we got.
+Our similar 1: Looks the same to me.
+Our similar 2: Look out! 
+Our similar 3: They both look the same. 
+Our similar 4: Look! There he is!
+Our similar 5: I'm not looking at that!
+Ground Truth:Where'd you get those?
+
+Sentence:Where'd you get those?
+Our similar 1: I I don't, I don't get this.
+Our similar 2: Get out of here.
+Our similar 3: What'd I get what'd I get what'd I get?
+Our similar 4: They don't get it.
+Our similar 5: (Get him!)
+Ground Truth:We can't tell you where we got 'em! It's secret ninja stuff.
+
+Sentence:We can't tell you where we got 'em! It's secret ninja stuff.
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: No, it's... it's a secret.
+Our similar 3: Now we've got 'em! 
+Our similar 4: Got 'em!
+Our similar 5: They got 'em. It's over.
+Ground Truth:Ooo, is that jealousy I see in your eyes, Craig? Mmm, yes, drown me in the sweet water of your envy.
+
+Sentence:Ooo, is that jealousy I see in your eyes, Craig? Mmm, yes, drown me in the sweet water of your envy.
+Our similar 1: Ooo.
+Our similar 2: Ooo.
+Our similar 3: Ooo, what's that?
+Our similar 4: Mmm.
+Our similar 5: Mmm, what is it?
+Ground Truth:Uh-uh, they're not that cool.
+
+Sentence:Uh-uh, they're not that cool.
+Our similar 1: Uh-uh. 
+Our similar 2: (Uh-uh.)
+Our similar 3: Uh-uh, go on.
+Our similar 4: Uh-uh, yes. It is.
+Our similar 5: Uh-uh huh.
+Ground Truth:Hyeah, "they're not that cool." These are real authentic weapons from the Far East.
+
+Sentence:Hyeah, "they're not that cool." These are real authentic weapons from the Far East.
+Our similar 1: Hyeah.
+Our similar 2: Hyeah!
+Our similar 3: Hyeah, right.
+Our similar 4: Oh my God, look!  Martial arts weapons from the Far East. 
+Our similar 5: These are a weapon! 
+Ground Truth:But don't tell anybody we have them.
+
+Sentence:But don't tell anybody we have them.
+Our similar 1: Why would you tell anybody?
+Our similar 2: Uh, I won't tell anybody.
+Our similar 3: We said we'd never tell anybody?
+Our similar 4: Why isn't anybody telling us anything?!
+Our similar 5: Isn't there anybody who can help me? Isn't there anybody who cares?
+Ground Truth:Ugh.
+
+Sentence:Ugh.
+Our similar 1: Ugh.
+Our similar 2: Ugh... what... where...
+Our similar 3: Ugh.
+Our similar 4: Ugh!
+Our similar 5: Ugh.
+Ground Truth:Whoa! Where'd you get those?!
+
+Sentence:Whoa! Where'd you get those?!
+Our similar 1: Whoa, whoa! What?
+Our similar 2: Whoa.
+Our similar 3: Whoa, what the?
+Our similar 4: Whoa.
+Our similar 5: Whoa.
+Ground Truth:Let me see.
+
+Sentence:Let me see.
+Our similar 1: What? Let me see that. 
+Our similar 2: Let's just see. 
+Our similar 3: Let me see!
+Our similar 4: Let me see! 
+Our similar 5: Let's see, where have I been, where have I been?
+Ground Truth:Uh, we'd love to hang out guys, but we have important secret work to do. 
+
+Sentence:Uh, we'd love to hang out guys, but we have important secret work to do. 
+Our similar 1: No, it's... it's a secret.
+Our similar 2: Hang on guys!
+Our similar 3: You know the secret?
+Our similar 4: How's it hanging'?
+Our similar 5: ... I'm hanging up now.
+Ground Truth:Yes. The life of a ninja is complex and full of peril.  Come on, ninjas!
+
+Sentence:Yes. The life of a ninja is complex and full of peril.  Come on, ninjas!
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: All right, ninjas! Let's go protect the world!
+Our similar 3: Yeah. We wanna get one of each of these ninja weapons.
+Our similar 4: Dude! We should each buy a weapon, and then we'll be like ninjas.
+Our similar 5: It's so complex and cool.
+Ground Truth:Ho! 
+
+Sentence:Ho! 
+Our similar 1: Ho! 
+Our similar 2: Ho ho!
+Our similar 3: Ho ho ho ho. 
+Our similar 4: Ho ho ho ho.
+Our similar 5: Ho! 
+Ground Truth:Aw man, did you see the look on Craig's face?! That was awesome!
+
+Sentence:Aw man, did you see the look on Craig's face?! That was awesome!
+Our similar 1: Aw man, this is awesome! 
+Our similar 2: Aw man, that was sooo awesome! 
+Our similar 3: That looks awesome!
+Our similar 4: That looks AWEsome! 
+Our similar 5: Aw man.
+Ground Truth:Dude, we're like the coolest kids in the whole state! 
+
+Sentence:Dude, we're like the coolest kids in the whole state! 
+Our similar 1: See? My dad is the coolest after all.
+Our similar 2: Yeah, well, he's the coolest kid with disabilities in the world!
+Our similar 3: I think you are one of the coolest people in the world, Eric. And you are not fat at all. 
+Our similar 4: Damn. That guy is the coolest guy in the universe!
+Our similar 5: What is the state of our people?
+Ground Truth:Hey fellas. What's happenin'?
+
+Sentence:Hey fellas. What's happenin'?
+Our similar 1: It's happenin' again! 
+Our similar 2: Hey, fellas!
+Our similar 3: Hey, fellas! 
+Our similar 4: Hey, fellas!
+Our similar 5: Hey fellas.
+Ground Truth:We're playing Ninjas, Butters.
+
+Sentence:We're playing Ninjas, Butters.
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: All right, ninjas! Let's go protect the world!
+Our similar 3: Yeah. We wanna get one of each of these ninja weapons.
+Our similar 4: Dude! We should each buy a weapon, and then we'll be like ninjas.
+Our similar 5: I'm not playing.
+Ground Truth:Wowee! Hey, can I play, ninjas with you?
+
+Sentence:Wowee! Hey, can I play, ninjas with you?
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: All right, ninjas! Let's go protect the world!
+Our similar 3: Yeah. We wanna get one of each of these ninja weapons.
+Our similar 4: Dude! We should each buy a weapon, and then we'll be like ninjas.
+Our similar 5: I'm not playing.
+Ground Truth:No, Butters. We are a very select elite fighting team sent to protect the world from evil, and you can't play with us.
+
+Sentence:No, Butters. We are a very select elite fighting team sent to protect the world from evil, and you can't play with us.
+Our similar 1: We're playing what I want, and I'll select a different song!
+Our similar 2: Protect who??
+Our similar 3: Protect it?
+Our similar 4: There is no other team.
+Our similar 5: Well, Butters, there is no I in "team."
+Ground Truth:Yeah, Butters. You wouldn't make a very good ninja. Come on, guys.  We have a lot of work to do.
+
+Sentence:Yeah, Butters. You wouldn't make a very good ninja. Come on, guys.  We have a lot of work to do.
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: Yeah. We wanna get one of each of these ninja weapons.
+Our similar 3: All right, ninjas! Let's go protect the world!
+Our similar 4: Dude! We should each buy a weapon, and then we'll be like ninjas.
+Our similar 5: Come on, you guys. We all have to work on this!
+Ground Truth:Yes, and no time to do it. No time... 
+
+Sentence:Yes, and no time to do it. No time... 
+Our similar 1: All the time. 
+Our similar 2: I don't have time for this.
+Our similar 3: Not... all the time.
+Our similar 4: Time out?
+Our similar 5: We don't have time for this!
+Ground Truth:I think I'd make a really good ninja.  Jeez, those guys never let me play with them. Uh, they just shun me all the time. 
+
+Sentence:I think I'd make a really good ninja.  Jeez, those guys never let me play with them. Uh, they just shun me all the time. 
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: Oh boy, uh, Oh Jeez, Oh Jeez
+Our similar 3: All right, ninjas! Let's go protect the world!
+Our similar 4: Oh Jeez...
+Our similar 5: Oh jeez!
+Ground Truth:I'm a lost soul. A dark lonely shadow of a person-
+
+Sentence:I'm a lost soul. A dark lonely shadow of a person-
+Our similar 1: Go on now, soul now!
+Our similar 2: And me, I'll be the caring soul.
+Our similar 3: We lost them, we lost them!
+Our similar 4: No, you just lost it all!
+Our similar 5: It is lost.
+Ground Truth:Hi Butters.
+
+Sentence:Hi Butters.
+Our similar 1: Hi Butters. Hello. Hi. Hello Butters.
+Our similar 2: Hi there.
+Our similar 3: Hi
+Our similar 4: Hi.
+Our similar 5: Hi now?
+Ground Truth:Hi Mom.  -a castaway, forced to live his life out in solitude.  And it's because of times like these I was forced to a life of evil.  Society cast me out, and so I vowed to make them all pay! And pay they did! Nobody knows that beneath this sweet eight-year-old little boy lies the most evil, the most destructive super-villain of all time!  Professor Chaos!  Let's see how you like dealing with me, ninjas! 
+
+Sentence:Hi Mom.  -a castaway, forced to live his life out in solitude.  And it's because of times like these I was forced to a life of evil.  Society cast me out, and so I vowed to make them all pay! And pay they did! Nobody knows that beneath this sweet eight-year-old little boy lies the most evil, the most destructive super-villain of all time!  Professor Chaos!  Let's see how you like dealing with me, ninjas! 
+Our similar 1: What evil plot do you have this time, Professor Chaos?
+Our similar 2: Ohhh, that makes me angry! Why, if Professor Chaos were here he'd make everyone pay!
+Our similar 3: Professor Chaos!
+Our similar 4: Yes. If we are to take back control from the evil forces, this little boy might be the key.
+Our similar 5: You know, Professor Chaos, bringer of destruction and disorder!
+Ground Truth:Ooo, Butters, are you going out to play again?
+
+Sentence:Ooo, Butters, are you going out to play again?
+Our similar 1: Ooo.
+Our similar 2: Ooo.
+Our similar 3: Ooo, what's that?
+Our similar 4: Ooo, come on, now.
+Our similar 5: Ooo, Butters? You're in big trouble now.
+Ground Truth:Yeah Mom, I'm just goin' outside for a little while.
+
+Sentence:Yeah Mom, I'm just goin' outside for a little while.
+Our similar 1: Mom, go look outside.
+Our similar 2: Get outside! 
+Our similar 3: Get outside! 
+Our similar 4: What's goin' on?
+Our similar 5: How's it goin'? 
+Ground Truth:Well, could you be a sweetie and take that pie over there to the Thomsons. I made it to thank them for babysitting you last week.
+
+Sentence:Well, could you be a sweetie and take that pie over there to the Thomsons. I made it to thank them for babysitting you last week.
+Our similar 1: Thank you so much for babysitting little Eric, Shelly.
+Our similar 2: Sweetie, don't.
+Our similar 3: Sweetie.
+Our similar 4: What is it, sweetie?
+Our similar 5: Here you go, sweetie.
+Ground Truth:Well, o- okay Mom.  Bah! Gah! 
+
+Sentence:Well, o- okay Mom.  Bah! Gah! 
+Our similar 1: Gah! Me too.
+Our similar 2: (Gah!)
+Our similar 3: Gah, why? 
+Our similar 4: Gah, she's so stupid.
+Our similar 5: Gah, let's go you guys. 
+Ground Truth:Hm, this doesn't seem to be the right way. My ninja sense is telling me we might be heading in the wrong direction.
+
+Sentence:Hm, this doesn't seem to be the right way. My ninja sense is telling me we might be heading in the wrong direction.
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: Hm, right, right.
+Our similar 3: Hm...
+Our similar 4: Hm.
+Our similar 5: Hm.
+Ground Truth:Okay, hang on guys. I'll use my special power to see into the future and find out where we should head next.
+
+Sentence:Okay, hang on guys. I'll use my special power to see into the future and find out where we should head next.
+Our similar 1: But I do have a special power! I know I do!
+Our similar 2: (It's okay, I'll use my head!) 
+Our similar 3: Okay, hang on.
+Our similar 4: No, we're from the future. 
+Our similar 5: Hang on guys!
+Ground Truth:Hold on you guys. I actually have another power. I can see into the future too, but better than Kyle. Let me try it.
+
+Sentence:Hold on you guys. I actually have another power. I can see into the future too, but better than Kyle. Let me try it.
+Our similar 1: Will you guys listen to me?! I actually have a power that I actually want to know about!
+Our similar 2: No, we're from the future. 
+Our similar 3: I think he IS from the future.
+Our similar 4: Hold on, guys! 
+Our similar 5: The power! 
+Ground Truth:God dammit, Cartman! You can't keep making up new powers!
+
+Sentence:God dammit, Cartman! You can't keep making up new powers!
+Our similar 1: God dammit!
+Our similar 2: God Dammit!
+Our similar 3: God dammit! 
+Our similar 4: God dammit! 
+Our similar 5: GOD DAMMIT!! 
+Ground Truth:Yeah dude, that's like the fifth power you've come up with!
+
+Sentence:Yeah dude, that's like the fifth power you've come up with!
+Our similar 1: This is like my fifth time. 
+Our similar 2: Aw, dude, that was just the fifth graders.
+Our similar 3: Hey, what are you fifth graders doing?
+Our similar 4: We don't have a fifth member, Cartman!
+Our similar 5: The power! 
+Ground Truth:I am Bulrog and I have lots and lots of powers.
+
+Sentence:I am Bulrog and I have lots and lots of powers.
+Our similar 1: A lot, I think.
+Our similar 2: Sure, I like like you a lot a lot. 
+Our similar 3: Thanks a lot.
+Our similar 4: Uh, no. I've got a lot to do.
+Our similar 5: The power! 
+Ground Truth:No asshole! From now on you only get to have one power! So what is it?!
+
+Sentence:No asshole! From now on you only get to have one power! So what is it?!
+Our similar 1: Get out of here, asshole!
+Our similar 2: The power! 
+Our similar 3: ...Power.
+Our similar 4: He's an asshole.
+Our similar 5: Are you just an asshole?! Is that it?!
+Ground Truth:I have the power to have all the powers I want.
+
+Sentence:I have the power to have all the powers I want.
+Our similar 1: They want his power?
+Our similar 2: The power! 
+Our similar 3: ...Power.
+Our similar 4: It is too powerful, Jesus!
+Our similar 5: You... have that kind of power?
+Ground Truth:That doesn't count, fatass!
+
+Sentence:That doesn't count, fatass!
+Our similar 1: Count me in.
+Our similar 2: Count them again.
+Our similar 3: But then, does it still count?
+Our similar 4: Well, count me out.
+Our similar 5: Hey, wait! That doesn't count as our question, does it??
+Ground Truth:Yeah, that it, Cartman! You don't get to have any powers!
+
+Sentence:Yeah, that it, Cartman! You don't get to have any powers!
+Our similar 1: The power! 
+Our similar 2: ...Power.
+Our similar 3: They want his power?
+Our similar 4: It is too powerful, Jesus!
+Our similar 5: Awesome! We get powers?
+Ground Truth:C'mon!
+
+Sentence:C'mon!
+Our similar 1: C'mon.
+Our similar 2: C'mon.
+Our similar 3: C'mon!
+Our similar 4: Heh, c'mon! C'mon c'mon c'mon c'mon! C'mon c'mon! C'mon c'mon c'mon!
+Our similar 5: Oh, man, c'mon!
+Ground Truth:Haaa ha ha ha ha!  Well well well! If it isn't the four ninjas!
+
+Sentence:Haaa ha ha ha ha!  Well well well! If it isn't the four ninjas!
+Our similar 1: HA?!
+Our similar 2: (Ha ha ha ha ha ha ha) 
+Our similar 3: Ha ha! 
+Our similar 4: Ha ha ha ha!
+Our similar 5: Ha ha ha ha! Ha ha ha ha! Ha ha ha ha! Ha ha ha ha! 
+Ground Truth:Who the hell is that?
+
+Sentence:Who the hell is that?
+Our similar 1: What the hell are they doing??
+Our similar 2: What the hell is this??!!
+Our similar 3: What the hell's this?
+Our similar 4: What the hell is that? 
+Our similar 5: What the hell was that?!
+Ground Truth:I dunno. Craig, is that you?
+
+Sentence:I dunno. Craig, is that you?
+Our similar 1: I dunno.
+Our similar 2: I dunno.
+Our similar 3: I dunno.
+Our similar 4: I dunno.
+Our similar 5: I dunno, I just. Uh. They don't do anything, that's pretty sweet. I dunno, I thought it was funny.
+Ground Truth:Fools!  I am Professor Chaos! Bringer of Destruction and Doom!  Your feeble ninja powers are no match for me!
+
+Sentence:Fools!  I am Professor Chaos! Bringer of Destruction and Doom!  Your feeble ninja powers are no match for me!
+Our similar 1: You know, Professor Chaos, bringer of destruction and disorder!
+Our similar 2: I am Professor Chaos! Bringer of destruction and maker of doom! Those who do not know me yet shall know me very soon, for the hour of Chaos ih-is at hand! 
+Our similar 3: Oh well, sure, uh he's the bringer of destruction and evil!
+Our similar 4: Professor Chaos!
+Our similar 5: He's doomed.
+Ground Truth:Whoa.
+
+Sentence:Whoa.
+Our similar 1: Whoa.
+Our similar 2: Whoa, what the?
+Our similar 3: Whoa.
+Our similar 4: Whoa.
+Our similar 5: Whoa... 
+Ground Truth:Looks like we have a sworn enemy, you guys.
+
+Sentence:Looks like we have a sworn enemy, you guys.
+Our similar 1: The Vampires are our sworn enemy. We beat up their leader, and burned down their lair. Don't you remember?
+Our similar 2: What was that? I could have sworn I saw something outside.
+Our similar 3: Oh my goodness, are you two enemies?
+Our similar 4: America had other enemies before the Muslims, you know. Who is America's oldest enemy?
+Our similar 5: Uh, toxins are your enemy. 
+Ground Truth:(Yeah.)
+
+Sentence:(Yeah.)
+Our similar 1: Yeah.
+Our similar 2: Yeah.
+Our similar 3: Yeah. 
+Our similar 4: (Yeah...)
+Our similar 5: Yeah.
+Ground Truth:Very well, Professor Chaos! We'll play along. Now, fell the fiery sting of my tonfa of Takanawa!  Hey kid, that knocks you down.
+
+Sentence:Very well, Professor Chaos! We'll play along. Now, fell the fiery sting of my tonfa of Takanawa!  Hey kid, that knocks you down.
+Our similar 1: Professor Chaos!
+Our similar 2: With my tonfa of Takanawa, I become the great and powerful ninja Shadowhachi, born to fight evil and people I don't like.
+Our similar 3: Oh that really stings.
+Our similar 4: I'm, not trying to call you out, Professor Chaos. I want to join you.
+Our similar 5: Look! Mysterion and Professor Chaos are fighting!
+Ground Truth:Nuh uh!
+
+Sentence:Nuh uh!
+Our similar 1: Nuh uh.
+Our similar 2: Nuh uh.
+Our similar 3: Nuh uh!
+Our similar 4: (Nuh uh)
+Our similar 5: Nuh uh.
+Ground Truth:Yeah, huh, I got you!
+
+Sentence:Yeah, huh, I got you!
+Our similar 1: Yeah huh!
+Our similar 2: Yeah, huh? 
+Our similar 3: Huh? Yeah?
+Our similar 4: Huh?  Oh yeah.
+Our similar 5: Huh, huh.
+Ground Truth:Nuh uh! Because my cloak is made of a... titanium alloy that shields me from heat!
+
+Sentence:Nuh uh! Because my cloak is made of a... titanium alloy that shields me from heat!
+Our similar 1: Let's see the shield.
+Our similar 2: Nuh uh.
+Our similar 3: Nuh uh.
+Our similar 4: Nuh uh!
+Our similar 5: (Nuh uh)
+Ground Truth:That's bullcrap! Titanium alloy my ass!
+
+Sentence:That's bullcrap! Titanium alloy my ass!
+Our similar 1: This is bullcrap! 
+Our similar 2: This... is... bullcrap!
+Our similar 3: What?! That's bullcrap! 
+Our similar 4: Aw, that is such bullcrap!
+Our similar 5: Come on you guys, this is fucking bullcrap! Let me out!
+Ground Truth:Well, let's see how he likes the icy blasts from my nunchucks of Sokuromoto! 
+
+Sentence:Well, let's see how he likes the icy blasts from my nunchucks of Sokuromoto! 
+Our similar 1: ...No, he has an icy heart.
+Our similar 2: And we'll have a blast doing the new stuff. 
+Our similar 3: We cannot keep going fast on these icy roads!
+Our similar 4: Captain, we cannot keep going fast on these icy roads.
+Our similar 5: "Captain, we cannot keep going fast on these icy roads?"
+Ground Truth:Huh nice attempt, ninja! But now both of you shall feel the power of my Web of Holding!  Ha, ha, ha, ha, ha! You are both trapped in spiderwebs! 
+
+Sentence:Huh nice attempt, ninja! But now both of you shall feel the power of my Web of Holding!  Ha, ha, ha, ha, ha! You are both trapped in spiderwebs! 
+Our similar 1: (Ha ha ha ha ha ha ha) 
+Our similar 2: Ha ha! 
+Our similar 3: Ha ha ha ha! Ha ha ha ha! Ha ha ha ha! Ha ha ha ha! 
+Our similar 4: Ha ha ha ha!
+Our similar 5: HA?!
+Ground Truth:All right, dickhole! Time for you to pay!  Oh no! I have no powers! Kyle took them away from me! Quick, Kyle, give me back my powers so I can fight this evil villain!
+
+Sentence:All right, dickhole! Time for you to pay!  Oh no! I have no powers! Kyle took them away from me! Quick, Kyle, give me back my powers so I can fight this evil villain!
+Our similar 1: Well, what's the Evil Power?
+Our similar 2: The power! 
+Our similar 3: ...Power.
+Our similar 4: Alright, dickhole! 
+Our similar 5: To destroy the Evil Power!
+Ground Truth:Okay, okay, you can have your powers back.
+
+Sentence:Okay, okay, you can have your powers back.
+Our similar 1: Okay, I'm back.
+Our similar 2: The power! 
+Our similar 3: ...Power.
+Our similar 4: Okay, okay. 
+Our similar 5: Okay, okay!
+Ground Truth:All right! And now I will use my power to...  turn Kyle into a chicken! Bleh! 
+
+Sentence:All right! And now I will use my power to...  turn Kyle into a chicken! Bleh! 
+Our similar 1: Ow. Quit it, Kyle! Bleh. Kyle! 
+Our similar 2: Bleh, ogayedmi.
+Our similar 3: I'm not a chicken!
+Our similar 4: She chickened out!
+Our similar 5: The power! 
+Ground Truth:God dammit Cartman!
+
+Sentence:God dammit Cartman!
+Our similar 1: God dammit!
+Our similar 2: God Dammit!
+Our similar 3: God dammit! 
+Our similar 4: God dammit! 
+Our similar 5: GOD DAMMIT!! 
+Ground Truth:Ha, ha, ha, ha, haaa, ha! Now you are a chicken! Nyanyanyanyanyaaa nya!
+
+Sentence:Ha, ha, ha, ha, haaa, ha! Now you are a chicken! Nyanyanyanyanyaaa nya!
+Our similar 1: Ha ha ha ha ha! We scared you, chickens!
+Our similar 2: Ha ha ha ha! Ha ha ha ha! Ha ha ha ha! Ha ha ha ha! 
+Our similar 3: Ha ha ha ha! Ha ha ha ha!
+Our similar 4: Ha ha ha ha!
+Our similar 5: HA ha ha ha! HA ha ha ha!
+Ground Truth:Enough! I grow weary of your foolishness. Professor Chaos cannot be stopped!
+
+Sentence:Enough! I grow weary of your foolishness. Professor Chaos cannot be stopped!
+Our similar 1: Professor Chaos!
+Our similar 2: I'm, not trying to call you out, Professor Chaos. I want to join you.
+Our similar 3: Look! Mysterion and Professor Chaos are fighting!
+Our similar 4: Huh? Naw, I'm Professor Chaos, Stan.
+Our similar 5: So! You all think that you can outsmart Professor Chaos, do you?!
+Ground Truth:Oh yeah?! Kenny! Use your ninja star!
+
+Sentence:Oh yeah?! Kenny! Use your ninja star!
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: Yeah. We wanna get one of each of these ninja weapons.
+Our similar 3: All right, ninjas! Let's go protect the world!
+Our similar 4: Dude! We should each buy a weapon, and then we'll be like ninjas.
+Our similar 5: I just see stars. 
+Ground Truth:(Yeah! Take this, Professor Chaos!)  (Feel my wrath!) 
+
+Sentence:(Yeah! Take this, Professor Chaos!)  (Feel my wrath!) 
+Our similar 1: Yes! Now the world shall feel the wrath of Professor Chaos! Hahaha!
+Our similar 2: Professor Chaos!
+Our similar 3: Feel my wrath! 
+Our similar 4: I'm, not trying to call you out, Professor Chaos. I want to join you.
+Our similar 5: Look! Mysterion and Professor Chaos are fighting!
+Ground Truth:Oh, shit, dude!
+
+Sentence:Oh, shit, dude!
+Our similar 1: Yeah dude, it's just shit.
+Our similar 2: Oh shit!
+Our similar 3: (Oh, shit!)
+Our similar 4: Oh shit.
+Our similar 5: Oh shit! 
+Ground Truth:Butters! Oh my God!  Oh, dude! It's stuck in his eye!
+
+Sentence:Butters! Oh my God!  Oh, dude! It's stuck in his eye!
+Our similar 1: We were stuck. We were completely stuck. 
+Our similar 2: There's some good men stuck in there.
+Our similar 3: Butters, what happened to your eye?
+Our similar 4: Your eyes? 
+Our similar 5: Oh my God, dude.
+Ground Truth:What the hell did you do that for, Kenny?!
+
+Sentence:What the hell did you do that for, Kenny?!
+Our similar 1: Kenny, what the hell are you doing?! 
+Our similar 2: Kenny, where the hell are you going?
+Our similar 3: What the hell?  Kenny, get out of here!
+Our similar 4: Kenny, where the hell is Cartman?!
+Our similar 5: Kenny? No! No!
+Ground Truth:(I just threw my ninja star at him.)
+
+Sentence:(I just threw my ninja star at him.)
+Our similar 1: You threw it away, Cartman!
+Our similar 2: I threw up on my way home.
+Our similar 3: What's your ninja name, Kenny?
+Our similar 4: Butters, your dad threw you down a well?
+Our similar 5: You threw it away, Cartman! It's mine now.
+Ground Truth:It hurts! It hurts! 
+
+Sentence:It hurts! It hurts! 
+Our similar 1: You're hurting me!
+Our similar 2: Don't hurt me. 
+Our similar 3: Don't hurt it! 
+Our similar 4: Don't you hurt her!
+Our similar 5: I'm not going to hurt you.
+Ground Truth:Oh man! We are in serious trouble!
+
+Sentence:Oh man! We are in serious trouble!
+Our similar 1: Oh, oh no, are we in trouble?
+Our similar 2: What's going on? Are we in trouble?
+Our similar 3: What?! Are you serious?!
+Our similar 4: Are you serious?
+Our similar 5: Are you being serious?
+Ground Truth:Sh shhhh. It's okay, Butters. Calm down. It's not that bad, really.
+
+Sentence:Sh shhhh. It's okay, Butters. Calm down. It's not that bad, really.
+Our similar 1: Shhhh.
+Our similar 2: Sh!
+Our similar 3: Sh!
+Our similar 4: Sh. Here they come. 
+Our similar 5: Sh! You hear that?
+Ground Truth:But I... But I... But I can't see nothin'. I gotta go to the hospital! 
+
+Sentence:But I... But I... But I can't see nothin'. I gotta go to the hospital! 
+Our similar 1: But I can't see nothin'.
+Our similar 2: Nothin' from nothin' leaves nothin'  
+You gotta have something
+Our similar 3: We've got to get him to the hospital.
+Our similar 4: There's nothin' to do.
+Our similar 5: ...Nothin'. 
+Ground Truth:Okay okay, calm down, Butters! It'll be okay! 
+
+Sentence:Okay okay, calm down, Butters! It'll be okay! 
+Our similar 1: Okay. Okay, okay okay, it's okay. It's okay. Calm down, okay. Turn on the light. 
+Our similar 2: Dude, Butters, calm down.
+Our similar 3: Okay. Okay. Butters, Butters.
+Our similar 4: Butters, calm down, alright?
+Our similar 5: Butters Butters, calm down! I know a way out of this!
+Ground Truth:Guys, meeting over here for a second?  All right you guys, we need to stay calm and just do the right thing. We have to kill Butters and bury him in Kyle's backyard.
+
+Sentence:Guys, meeting over here for a second?  All right you guys, we need to stay calm and just do the right thing. We have to kill Butters and bury him in Kyle's backyard.
+Our similar 1: In the backyard?
+Our similar 2: Stay calm! You have to stay calm! 
+Our similar 3: Stay calm, you know what you have to do.
+Our similar 4: I know. Let's go to the backyard. 
+Our similar 5: You guys, calm down!
+Ground Truth:Dude, shut up!
+
+Sentence:Dude, shut up!
+Our similar 1: God, shut up, dude.
+Our similar 2: Shut up!
+Our similar 3: Shut up!
+Our similar 4: Shut up!
+Our similar 5: Shut up! 
+Ground Truth:I agree with Cartman!
+
+Sentence:I agree with Cartman!
+Our similar 1: Agreed.
+Our similar 2: Agreed.
+Our similar 3: I agree.
+Our similar 4: I agree.
+Our similar 5: Agreed.
+Ground Truth:What?!
+
+Sentence:What?!
+Our similar 1: What?
+Our similar 2: So?
+Our similar 3: What?
+Our similar 4: What should we do with him?
+Our similar 5: What's that?
+Ground Truth:You don't understand what my mom will do to me if she finds out I was playing with weapons!
+
+Sentence:You don't understand what my mom will do to me if she finds out I was playing with weapons!
+Our similar 1: These are a weapon! 
+Our similar 2: We don't have any weapons.
+Our similar 3: If Saddam is building weapons, we have to stop him. With our weapons. 
+Our similar 4: No dude, we can't go around showing our weapons to people. Our parents'll find out we have them.
+Our similar 5: You don't understand, Mom. You just don't understand. 
+Ground Truth:Just stay still, Butters.
+
+Sentence:Just stay still, Butters.
+Our similar 1: Just stay down!
+Our similar 2: So can I stay?
+Our similar 3: Just stay still, Eric. Mom knows what she's doing.
+Our similar 4: Butters is staying over tonight?
+Our similar 5: That's right. Will you stay?
+Ground Truth:Ah.  Hwa!  Hwaaaaa!
+
+Sentence:Ah.  Hwa!  Hwaaaaa!
+Our similar 1: Dude, who the hell did that?  Hwa? 
+Our similar 2: Ah!
+Our similar 3: No, ah I don't.
+Our similar 4: Ah!
+Our similar 5: Ah!
+Ground Truth:Stop dude! You're gonna scramble his brain!
+
+Sentence:Stop dude! You're gonna scramble his brain!
+Our similar 1: Oh yeah, that it would split my neurons and scramble my brains! I forgot!
+Our similar 2: Goodbye, Scrambles.  We'll miss you. 
+Our similar 3: And here you can feel the brains.
+Our similar 4: Scrambles! So good to have you back! You ain't sore at us, are ya?  Ahh! Get him off! 
+Our similar 5: Must eat brains. 
+Ground Truth:Go ahead and scramble it, then he won't remember it was us.
+
+Sentence:Go ahead and scramble it, then he won't remember it was us.
+Our similar 1: Goodbye, Scrambles.  We'll miss you. 
+Our similar 2: Go ahead.
+Our similar 3: Go ahead.
+Our similar 4: No.  You go ahead.
+Our similar 5: Go ahead. 
+Ground Truth:You guys can't fix my eyeball! You have to take me to the hospital! 
+
+Sentence:You guys can't fix my eyeball! You have to take me to the hospital! 
+Our similar 1: What do you mean? We cut out her eyeball.
+Our similar 2: Here I have a bowl of human eyeballs.
+Our similar 3: We can fix this!
+Our similar 4: So NOW can we take Kyle to the hospital?
+Our similar 5: Come on, we're taking you back to the hospital. 
+Ground Truth:If we take him to the hospital, they're gonna find out what happened.
+
+Sentence:If we take him to the hospital, they're gonna find out what happened.
+Our similar 1: THERE ISN'T GONNA BE A HOSPITAL! DON'T YOU GET IT?!
+Our similar 2: So NOW can we take Kyle to the hospital?
+Our similar 3: Come on, we're taking you back to the hospital. 
+Our similar 4: What? We have to get to the hospital.
+Our similar 5: Will he be okay out of the hospital?
+Ground Truth:God dammit!
+
+Sentence:God dammit!
+Our similar 1: God dammit!
+Our similar 2: God Dammit!
+Our similar 3: God dammit! 
+Our similar 4: God dammit! 
+Our similar 5: GOD DAMMIT!! 
+Ground Truth:God? Please, if you get me out of this, I swear, I will never play with weapons ever again.
+
+Sentence:God? Please, if you get me out of this, I swear, I will never play with weapons ever again.
+Our similar 1: These are a weapon! 
+Our similar 2: I swear
+Our similar 3: (I swear too.)
+Our similar 4: We don't have any weapons.
+Our similar 5: I swear, Kyle.
+Ground Truth:Don't be so quick to throw off your ninja responsibility, Kyle.  Now, come on guys, sure, it's easy to be a ninja when everything's going your way, but it's times like these, when the chips are down, that a ninja shows his true character.
+
+Sentence:Don't be so quick to throw off your ninja responsibility, Kyle.  Now, come on guys, sure, it's easy to be a ninja when everything's going your way, but it's times like these, when the chips are down, that a ninja shows his true character.
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: All right, ninjas! Let's go protect the world!
+Our similar 3: Dude! We should each buy a weapon, and then we'll be like ninjas.
+Our similar 4: Yeah. We wanna get one of each of these ninja weapons.
+Our similar 5: Ech! You see, guys? This is why Jews can't be ninjas! They've got no spine!
+Ground Truth:Whoa, I'm getting woozy.
+
+Sentence:Whoa, I'm getting woozy.
+Our similar 1: Whoa. I think this is a bad idea, fellas. I feel woozy.
+Our similar 2: Whoa.
+Our similar 3: Whoa, what the?
+Our similar 4: Whoa.
+Our similar 5: Whoa.
+Ground Truth:Shut up, Butters.  Now, there's a way out of this. We just have to use our... ninja reasoning. 
+
+Sentence:Shut up, Butters.  Now, there's a way out of this. We just have to use our... ninja reasoning. 
+Our similar 1: What's your ninja name, Kenny?
+Our similar 2: Shut up, Butters!
+Our similar 3: All right, ninjas! Let's go protect the world!
+Our similar 4: Reason?
+Our similar 5: No reason.
+Ground Truth:We... need a doctor... But we can't go to the hospital. Wait a minute. Wait, wait, wait. What about the veterinarian?
+
+Sentence:We... need a doctor... But we can't go to the hospital. Wait a minute. Wait, wait, wait. What about the veterinarian?
+Our similar 1: Wait a minute. Who is that?
+Our similar 2: Wait a minute.
+Our similar 3: Wait a minute, isn't that...
+Our similar 4: Wait a minute. There they are!
+Our similar 5: Wait a minute! Who are you?
+Ground Truth:Dr. Shafley?
+
+Sentence:Dr. Shafley?
+Our similar 1: Dr. Adams.
+Our similar 2: Oh my God! Dr. Adams!
+Our similar 3: Well Dr. Janus?
+Our similar 4: Dr. Mephesto, we need your help!
+Our similar 5: Dr. Mephesto, I need help.
+Ground Truth:He's really old and going blind.
+
+Sentence:He's really old and going blind.
+Our similar 1: Oh God! Are you blind?!
+Our similar 2: No, it proves he DID make it all up. Are you blind?
+Our similar 3: I don't know. It's old.
+Our similar 4: Stupid-ass blind liberals!
+Our similar 5: Old people!
+Ground Truth:So if we make Butters up to look like a dog...
+
+Sentence:So if we make Butters up to look like a dog...
+Our similar 1: That wasn't a dog?
+Our similar 2: Oh my God! What is he doing to my dog?
+Our similar 3: Hey Stan, isn't that your dog?
+Our similar 4: (Wait until you see what I can do to the dog!)
+Our similar 5: Gay dog. 
+Ground Truth:Oh no.
+
+Sentence:Oh no.
+Our similar 1: Oh. 
+Our similar 2: Oh.
+Our similar 3: Oh. 
+Our similar 4: Oh no, he didn't.
+Our similar 5: No... Oh no!
+Ground Truth:We might pass him off as our pet.
+
+Sentence:We might pass him off as our pet.
+Our similar 1: It's the evil pets 
+Our similar 2: Pass them yourself.
+Our similar 3: Pass this up.
+Our similar 4: Pass this up.
+Our similar 5: Pass this up.
+Ground Truth:But, but fellas, if I, if I dress up like a dog with a star in my eye, I- I'm gonna get grounded.
+
+Sentence:But, but fellas, if I, if I dress up like a dog with a star in my eye, I- I'm gonna get grounded.
+Our similar 1: Fellas, I'm not grounded anymore
+Our similar 2: Fellas! Fellas! They're gonna do it!
+Our similar 3: But fellas, if I get fat my parents will ground me.
+Our similar 4: I- 
+Our similar 5: What in the hell are you doing dressed up like that?!
+Ground Truth:Shut up, Butters!
+
+Sentence:Shut up, Butters!
+Our similar 1: Shut up, Butters!
+Our similar 2: Shut up!
+Our similar 3: Shut up!
+Our similar 4: Shut up!
+Our similar 5: Shut up! 
+Ground Truth:That is the dumbest idea you guys have ever come up with! I'd expect this stupidity out of Cartman, but you, Stan?! Butters needs medical attention right now!
+
+Sentence:That is the dumbest idea you guys have ever come up with! I'd expect this stupidity out of Cartman, but you, Stan?! Butters needs medical attention right now!
+Our similar 1: This is the dumbest thing you've ever done, Cartman.
+Our similar 2: Dude, that's the dumbest thing I've ever heard.
+Our similar 3: That was the dumbest ride I've ever seen!
+Our similar 4: Cartman, that's the dumbest thing you've ever said - this week!
+Our similar 5: Medic! 
+Ground Truth:All right, then you take him to the hospital, Kyle. You take him to the hospital and let your mom find out what happened.
+
+Sentence:All right, then you take him to the hospital, Kyle. You take him to the hospital and let your mom find out what happened.
+Our similar 1: So NOW can we take Kyle to the hospital?
+Our similar 2: Come on, we're taking you back to the hospital. 
+Our similar 3: What? We have to get to the hospital.
+Our similar 4: Will he be okay out of the hospital?
+Our similar 5: In the ...hospital? Why?
+Ground Truth:Hand me the modeling glue. We need more fur over here. 
+

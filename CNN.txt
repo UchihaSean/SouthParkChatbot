@@ -1,0 +1,842 @@
+Sentence:Oh yeah?! My mom took me to see Mel Gibson's movie, The Passion, and Mel Gibson says you are sneaks and you are liars. And if the Road Warrior says it, it must be true.
+Our reply 1: I'm sorry. I'm high.
+Our reply 2: You know, when people like you drive down the street with your unnecessarily loud motorcycles thinking you're all cool. Everyone is actually laughing at you and calling you pathetic faggots. You do realize this, right?
+Our reply 3: Just asking you if you feel okay or displeased about the ordinance, fag.
+Our reply 4: KFC's gone, been replaced.
+Our reply 5: Oh yeah. Tom Cruise does have Seaman on his back.
+Ground Truth:Don't worry, Kyle. Craig's not gonna tell on us. Come, ninjas, let's go.  All right, this is it.
+
+Sentence:Don't worry, Kyle. Craig's not gonna tell on us. Come, ninjas, let's go.  All right, this is it.
+Our reply 1: Okay, I got a text of the Russian guy's podcast. It's all a bunch of links to eBay.
+Our reply 2: We got it, Dad.
+Our reply 3: Hey now, let him go! 
+Our reply 4: Sure you weren't!  Get rid of him!
+Our reply 5: We're all here today because Chef has been such an important part of our lives. A lot of us don't agree with the choices Chef has made in the past few days.  Some of us... feel hurt... and confused that he seemed to turn his back on us.  But we can't let the events of the last week take away the memories of how much Chef made us smile.  I'm gonna remember Chef as the jolly old guy who always broke into song.  I'm gonna remember Chef... as the guy who gave us advice to live by.  So you see, we shouldn't be mad at Chef for leaving us. We should be mad at that little fruity club for scrambling his brains.
+Ground Truth:Yes. The residence of the one called... Craig. 
+
+Sentence:Yes. The residence of the one called... Craig. 
+Our reply 1: I walked into the cafeteria today. Rebecca Miller and Philip Russ were dressed like vampires drinking Clamato juice with four kids from the football team.
+Our reply 2: Do you like to put fishsticks in your mouth?
+Our reply 3: What are you, Clyde? A gay fish?
+Our reply 4: What are you?
+Our reply 5: Huh. What are you, gay fish? 
+Ground Truth:I still say this is a bad idea.
+
+Sentence:I still say this is a bad idea.
+Our reply 1: Ching ching cha-ching.
+Our reply 2: I'm sorry. I'm high.
+Our reply 3: You know, when people like you drive down the street with your unnecessarily loud motorcycles thinking you're all cool. Everyone is actually laughing at you and calling you pathetic faggots. You do realize this, right?
+Our reply 4: Just asking you if you feel okay or displeased about the ordinance, fag.
+Our reply 5: KFC's gone, been replaced.
+Ground Truth:Ninja positions!  Hello, Craig!
+
+Sentence:Ninja positions!  Hello, Craig!
+Our reply 1: Now, tell us what you're doin' here in Denver, guys.
+Our reply 2: They justa blew up our government building! Ya got to hurry!
+Our reply 3: It's ah, getting late, boys. Why don't you get in the car and I'll drive you all home?
+Our reply 4: Hello, this is Al Gore.
+Our reply 5: Help!
+Ground Truth:Look what we got.
+
+Sentence:Look what we got.
+Our reply 1: I bet they aren't even drinking coffee.
+Our reply 2: Not with those hostages so close! It's too risky!
+Our reply 3: I got a kissing booth set up at the kids' fair on Saturday so Kayla and Ashley, you take turns there. Any girl that sells more than twenty kisses gets  a little sunshine, but if you don't show up for work at all, I'm afraid you get a stormy cloud.
+Our reply 4: I, I can't, I can't believe it.
+Our reply 5: So then, the guy hits the ping-pong ball with his dick, and it goes right in the other guy's mouth. 
+Ground Truth:Where'd you get those?
+
+Sentence:Where'd you get those?
+Our reply 1: Kyle?
+Our reply 2: Clyde, sometimes people like to pretend with make-believe characters. He's not really a lie, he's like ahh...
+Our reply 3: Oh God...
+Our reply 4: They don't get it. Parents are stupid.
+Our reply 5: Alright guys, do you think he's lying or telling the truth?
+Ground Truth:We can't tell you where we got 'em! It's secret ninja stuff.
+
+Sentence:We can't tell you where we got 'em! It's secret ninja stuff.
+Our reply 1: Ho ho ho ho.
+Our reply 2: He did it!
+Our reply 3: Why not?
+Our reply 4: It's over. 
+Our reply 5: When you tell them you only used the approved kit, don't look up and away, don't rub your neck, and don't touch your ear. Otherwise they'll know you're lying to them. Alright? Whenever you need to lie, just don't look up and away, rub your neck, or touch your ear.
+Ground Truth:Ooo, is that jealousy I see in your eyes, Craig? Mmm, yes, drown me in the sweet water of your envy.
+
+Sentence:Ooo, is that jealousy I see in your eyes, Craig? Mmm, yes, drown me in the sweet water of your envy.
+Our reply 1: Kenny, don't you think you owe the Thompsons an apology? 
+Our reply 2: I walked into the cafeteria today. Rebecca Miller and Philip Russ were dressed like vampires drinking Clamato juice with four kids from the football team.
+Our reply 3: Do you like to put fishsticks in your mouth?
+Our reply 4: What are you, Clyde? A gay fish?
+Our reply 5: What are you?
+Ground Truth:Uh-uh, they're not that cool.
+
+Sentence:Uh-uh, they're not that cool.
+Our reply 1: Kenny, aren't you a little young for this?
+Our reply 2: Yeah!
+Our reply 3: Awesome
+Our reply 4: Yes
+Our reply 5: No no, you don't understand.
+Ground Truth:Hyeah, "they're not that cool." These are real authentic weapons from the Far East.
+
+Sentence:Hyeah, "they're not that cool." These are real authentic weapons from the Far East.
+Our reply 1: This... is your pirate boat? Dude, the FUCK! Alright, seriously you guys? What kind of pirates are you? I mean, really? The FUCK, dude, the FUCK?!
+Our reply 2: Plunder the booty, lads! This ship is ours!
+Our reply 3: You know, "they."
+Our reply 4: Kenny, aren't you a little young for this?
+Our reply 5: Yeah!
+Ground Truth:But don't tell anybody we have them.
+
+Sentence:But don't tell anybody we have them.
+Our reply 1: When you tell them you only used the approved kit, don't look up and away, don't rub your neck, and don't touch your ear. Otherwise they'll know you're lying to them. Alright? Whenever you need to lie, just don't look up and away, rub your neck, or touch your ear.
+Our reply 2: No changes.
+Our reply 3: He's not allowed to come out of his room, so you can talk to him through the door.
+Our reply 4: Uh oh, it looks like Kyle is taking issue with something again. Kyle's got a pro-blem. CartmanBrah!
+Our reply 5: What's a dildo, Kenny?
+Ground Truth:Ugh.
+
+Sentence:Ugh.
+Our reply 1: Stan, knock it off!
+Our reply 2: Ugh... what?  What's going on?
+Our reply 3: Can we maybe try one without Lisa Berger?
+Our reply 4: (Oh yeah, babe. Oh yeah, baby.)
+One thing I know, my girl ain't no hobbit.
+She might be stumpy; that don't mean she a hobbit.
+She's not a hobbit 'cause she couldn't be.
+She got no Bagginses in her family tree.
+Yes on occasion she hangs out with her dwarf friends.
+But she never went on no quest with her dwarf friends.
+Except for one time she went to kill that dragon.
+She took his gold and she- 
+Hang on a minute, I'm sorry, I'm sorry.  Bitch, remember when you went off to kill that dragon with them dwarves? ... Yeah. Oh yeah. Rightrightrightright, yup. Yup, I got it. Yep, love you too. 
+It wasn't no dragon, so my girl ain't no hobbit.
+That was a Quizno's and my bitch went to rob it.
+'Cause they got that ham that she robs on her cellulite.
+While she drinking her grog and singin' those merry songs... at night...
+My girl ain't no hobbit.
+Please God, tell me I'm not engaged to no hobbit. 
+(Kim is not a hobbit.)
+Our reply 5: You suck!
+Ground Truth:Whoa! Where'd you get those?!
+
+Sentence:Whoa! Where'd you get those?!
+Our reply 1: And now you shall drink vampire blood, and your transformation will be complete, per se!  With this thy transformation is done. 
+Our reply 2: Do not be afraid. I mean you no harm.
+Our reply 3: Minge, does this mean I have to wait to see Paris?
+Our reply 4: I've worked it all out on Expedia.  We can take Southwest Airlines to Miami, then Dubai Air here to Cairo, and then it's just a 49-hour bus ride into Mogadishu, with all the booty and plunder a pirate could want.
+Our reply 5: Yes! Yehhehehes!
+Ground Truth:Let me see.
+
+Sentence:Let me see.
+Our reply 1: How can that be? Already?
+Our reply 2: Ey! You can't do that! Ey!
+Our reply 3: Check it out guys, she's taking o- Oh my God, we've got full bush!
+Our reply 4: O-Okay.  But don't scare him...
+Our reply 5: Where have you been, Cartman?
+Ground Truth:Uh, we'd love to hang out guys, but we have important secret work to do. 
+
+Sentence:Uh, we'd love to hang out guys, but we have important secret work to do. 
+Our reply 1: Dude, we don't wanna hang out with you anymore! Get it through your head! 
+Our reply 2: Whoa, dude! You're only as old as us; shouldn't you be in school?
+Our reply 3: Come on. Let's get into the plane'arium, shall we?
+Our reply 4: Oh I know what you mean. I've always loved the planetarium, too.
+Our reply 5: As we steer our boat down , looking for these dangerous predators... Boy, there's a king croc right here.  He must be four meters; 12, 13 feet long at least.  This croc has enough power in its jaws to rip my head right off.
+Ground Truth:Yes. The life of a ninja is complex and full of peril.  Come on, ninjas!
+
+Sentence:Yes. The life of a ninja is complex and full of peril.  Come on, ninjas!
+Our reply 1: Hi, my name is Stan Marsh. I was told to come down here and try to-
+Our reply 2: We have to talk to him!
+Our reply 3: I am the Prime Minister of Canada. What do you guys want?
+Our reply 4: I walked into the cafeteria today. Rebecca Miller and Philip Russ were dressed like vampires drinking Clamato juice with four kids from the football team.
+Our reply 5: Do you like to put fishsticks in your mouth?
+Ground Truth:Ho! 
+
+Sentence:Ho! 
+Our reply 1: Kevin, Goddammit! 
+Our reply 2: Black people say Hey hey hey!  Uh oh, I think the white people are winning! White people got you beat, black people; you'd better represent! Let me hear you say "I don't blame the white people. No no no!"
+Our reply 3: Good! Now get them in our tractor beam! 
+Our reply 4: It's Sally Struthers!
+Our reply 5: Baby you are so fine, and shit!The shit you do, the shit you say; I'd jump on your shit any day! Oh, hello there, children.
+Ground Truth:Aw man, did you see the look on Craig's face?! That was awesome!
+
+Sentence:Aw man, did you see the look on Craig's face?! That was awesome!
+Our reply 1: Now you know how it feels.
+Our reply 2: Come on, let's get you home.  Where are ya gon', Butters?
+Our reply 3: Say, what's the matter? You kids look kind of glum.
+Our reply 4: Attention, students. Don't forget that this Friday night is the South Park Elementary Bay Of Pigs Memorial Dance. We will have a very special band performing, so please come early.
+Our reply 5: Father. You came.
+Ground Truth:Dude, we're like the coolest kids in the whole state! 
+
+Sentence:Dude, we're like the coolest kids in the whole state! 
+Our reply 1: There's vampires in the school!
+Our reply 2: Oh Jesus, oh God, Butters, what are you doing?  I- I'm Butters.
+Our reply 3: You all right, sweetie?
+Our reply 4: Something must have happened to Chef while he was gone. Maybe he hit his head or, or got stuck in some quantum time vortex.
+Our reply 5: He's not a fag!
+Ground Truth:Hey fellas. What's happenin'?
+
+Sentence:Hey fellas. What's happenin'?
+Our reply 1: Butters, do you think 9/11 was just a plot by some angry terrorists, or do you think there was some kind of coverup?
+Our reply 2: Heh!  Oh, oh hey, Butters!  I wasn't expecting you so soon.
+Our reply 3: Hey, Butters.
+Our reply 4: Butters?! What the hell are you doing?!
+Our reply 5: Butters!  Did you bring it?
+Ground Truth:We're playing Ninjas, Butters.
+
+Sentence:We're playing Ninjas, Butters.
+Our reply 1: I am going to my room now! For I must slumber, per se. 
+Our reply 2: I can't do it. Ah, I- I can't do it!
+Our reply 3: Oh my God, well how is he doing? Yeah. Yeah, I'm sure. Huh okay, well thank you for telling me, Mr. Stotch, I'll spread the word. Yoeah, you take care. Bye.  We need to cancel our plans, Sharon. There's gonna be an emergency all-parent meeting at the school tonight. 
+Our reply 4: Hey Dad!
+Our reply 5: Oh hey fellas. I'm just watching the Kardashians
+Ground Truth:Wowee! Hey, can I play, ninjas with you?
+
+Sentence:Wowee! Hey, can I play, ninjas with you?
+Our reply 1: All right, right this way, girls.
+Our reply 2: Hello Mrs. Farnicle, how are you today? Making a deposit are we? Great, we can just put that into your retirement account and make it go to work for you aaaaand it's gone.
+Our reply 3: What's going on?
+Our reply 4: Oh, finally.
+Our reply 5: So ummm yeah, ah, I was hopin' maybe I could get a kiss.
+Ground Truth:No, Butters. We are a very select elite fighting team sent to protect the world from evil, and you can't play with us.
+
+Sentence:No, Butters. We are a very select elite fighting team sent to protect the world from evil, and you can't play with us.
+Our reply 1: I am going to my room now! For I must slumber, per se. 
+Our reply 2: I can't do it. Ah, I- I can't do it!
+Our reply 3: Oh my God, well how is he doing? Yeah. Yeah, I'm sure. Huh okay, well thank you for telling me, Mr. Stotch, I'll spread the word. Yoeah, you take care. Bye.  We need to cancel our plans, Sharon. There's gonna be an emergency all-parent meeting at the school tonight. 
+Our reply 4: Hey Dad!
+Our reply 5: ...'Scuse me?
+Ground Truth:Yeah, Butters. You wouldn't make a very good ninja. Come on, guys.  We have a lot of work to do.
+
+Sentence:Yeah, Butters. You wouldn't make a very good ninja. Come on, guys.  We have a lot of work to do.
+Our reply 1: Kenny, how many of my dad's mints are you gonna eat? Jesus!
+Our reply 2: You are the true dreamers. Tomorrow you will prove it. We will begin by reviewing how to print out cheat sheets as labels for your bottled water.
+Our reply 3: No! Stop! Bring them back here!
+Our reply 4: Oh it's over, it's finally over! 
+Our reply 5: What's good about a bunch of crap sounds to a drumbeat?
+Ground Truth:Yes, and no time to do it. No time... 
+
+Sentence:Yes, and no time to do it. No time... 
+Our reply 1: 'Sup, Jew?
+Our reply 2: Hey now! Me and us fellers were just asking questions!
+Our reply 3: That is gross!!
+Our reply 4: Whenever you are naughty, Eric, you are going to sit on this stool for five minutes.
+Our reply 5: Uh okay, fine. So you're gonna take my son to a dream within a dream, and then what?
+Ground Truth:I think I'd make a really good ninja.  Jeez, those guys never let me play with them. Uh, they just shun me all the time. 
+
+Sentence:I think I'd make a really good ninja.  Jeez, those guys never let me play with them. Uh, they just shun me all the time. 
+Our reply 1: Fuck off, dork! I don't want you here!
+Our reply 2: I'd like to know about the biology of the trees.
+Our reply 3: Yes.
+Our reply 4: That's what they're called, dude. Get with the times. 
+Our reply 5: Nope! We're gonna have all the pizza you can eat, twenty different cakes, and Lorde is going to play live!
+Ground Truth:I'm a lost soul. A dark lonely shadow of a person-
+
+Sentence:I'm a lost soul. A dark lonely shadow of a person-
+Our reply 1: Then please stand aside for people who actually have money with us. Next please. 
+Our reply 2: Zayak. Kareem! 
+Our reply 3: Damn pig cops!
+Our reply 4: It is natural. It's natural tonight to feel some disappointment. We fought as hard as we could, and though we fell short, the failure is mine, not yours.
+Our reply 5: Wow, we have royalty in our class. Why don't you take your seat, Damien? We're gonna finish our lesson on great singers of the Baroque era.  Now, children, Nancy Sinatra was quite a choice piece of ass...
+Ground Truth:Hi Butters.
+
+Sentence:Hi Butters.
+Our reply 1: I am going to my room now! For I must slumber, per se. 
+Our reply 2: I can't do it. Ah, I- I can't do it!
+Our reply 3: Oh my God, well how is he doing? Yeah. Yeah, I'm sure. Huh okay, well thank you for telling me, Mr. Stotch, I'll spread the word. Yoeah, you take care. Bye.  We need to cancel our plans, Sharon. There's gonna be an emergency all-parent meeting at the school tonight. 
+Our reply 4: Hey Dad!
+Our reply 5: Oh hey fellas. I'm just watching the Kardashians
+Ground Truth:Hi Mom.  -a castaway, forced to live his life out in solitude.  And it's because of times like these I was forced to a life of evil.  Society cast me out, and so I vowed to make them all pay! And pay they did! Nobody knows that beneath this sweet eight-year-old little boy lies the most evil, the most destructive super-villain of all time!  Professor Chaos!  Let's see how you like dealing with me, ninjas! 
+
+Sentence:Hi Mom.  -a castaway, forced to live his life out in solitude.  And it's because of times like these I was forced to a life of evil.  Society cast me out, and so I vowed to make them all pay! And pay they did! Nobody knows that beneath this sweet eight-year-old little boy lies the most evil, the most destructive super-villain of all time!  Professor Chaos!  Let's see how you like dealing with me, ninjas! 
+Our reply 1: Something must have happened to Chef while he was gone. Maybe he hit his head or, or got stuck in some quantum time vortex.
+Our reply 2: 'Sup, Jew?
+Our reply 3: Hey now! Me and us fellers were just asking questions!
+Our reply 4: You guys! You guys, we have got problems of Biblical proportions!
+Our reply 5: That is gross!!
+Ground Truth:Ooo, Butters, are you going out to play again?
+
+Sentence:Ooo, Butters, are you going out to play again?
+Our reply 1: Ho, I don't wanna!
+Our reply 2: Oh, uhuh alright, then. 
+We're so sorry you're not feeling well.
+We hope you're better soon.
+So we're bringing you some sunshine
+By, um, singing you this tune:
+Everybody misses you
+And though we hate to cause a fuss
+We'd like to say, "Get well soon!"
+And "Please don't die on us."
+Our reply 3: I am going to my room now! For I must slumber, per se. 
+Our reply 4: I can't do it. Ah, I- I can't do it!
+Our reply 5: Well, Mom, apparently Butters is gay, finds me very attractive, and, confused about his sexual identity, puked up all over my floor!
+Ground Truth:Yeah Mom, I'm just goin' outside for a little while.
+
+Sentence:Yeah Mom, I'm just goin' outside for a little while.
+Our reply 1: Here honey, talk to your father.
+Our reply 2: Oh my Gohhd.
+Our reply 3: Yeah. 
+Our reply 4: So, what do ya say, girls? You wanna be kid hipsters like us and wear purity rings too?
+Our reply 5: Live from Five News Studio in Colorado, it's Good Mornin' Denver.
+Ground Truth:Well, could you be a sweetie and take that pie over there to the Thomsons. I made it to thank them for babysitting you last week.
+
+Sentence:Well, could you be a sweetie and take that pie over there to the Thomsons. I made it to thank them for babysitting you last week.
+Our reply 1: Wait a minute! Phil Collins sucks ass!
+Our reply 2: Oh. You're welcome.
+Our reply 3: The Jonas Brothers? Dude, Kenny, what the hell is wrong with you? 
+Our reply 4: I knew it was you! 'Member I even said it before!
+Our reply 5: Atta boy Butters!
+Ground Truth:Well, o- okay Mom.  Bah! Gah! 
+
+Sentence:Well, o- okay Mom.  Bah! Gah! 
+Our reply 1: Dude, I'm a pirate! What the devil do I care what me mudder thinks anymore?
+Our reply 2: Ah, Mr. Garrison, I don't think that's quite fair, uh I mean, you rarely let us get up and leave during the class.
+Our reply 3: Ready to go hunting, Cartman?
+Our reply 4: All right, you ready?  All right just- okay, open uh- okay, okay, here it comes. Just sit very still, okay? Here we go. 
+Our reply 5: And don't get too close to Kyle. He looks like he might have the AIDS. 
+Ground Truth:Hm, this doesn't seem to be the right way. My ninja sense is telling me we might be heading in the wrong direction.
+
+Sentence:Hm, this doesn't seem to be the right way. My ninja sense is telling me we might be heading in the wrong direction.
+Our reply 1: Yeah, our eyes are finally open, dude. It's like waking up for the first time.
+Our reply 2: Now, the upper rim of Kilimanjaro should be quite a trek, and so we'll need to have a-
+Our reply 3: I am tired of seeing you in my office, young man!  You get sent here every day, Craig!
+Our reply 4: Where are you going?
+Our reply 5: It's true. We think that word might be plaguing our friend, Kenny.
+Ground Truth:Okay, hang on guys. I'll use my special power to see into the future and find out where we should head next.
+
+Sentence:Okay, hang on guys. I'll use my special power to see into the future and find out where we should head next.
+Our reply 1: Dude! I've never seen Cartman care so much about something.
+Our reply 2: Kenny! Noooooo!
+Our reply 3: Dude, we don't wanna hang out with you anymore! Get it through your head! 
+Our reply 4: Yes, we see, Mr. Cameron.
+Our reply 5: What happened to you?
+Ground Truth:Hold on you guys. I actually have another power. I can see into the future too, but better than Kyle. Let me try it.
+
+Sentence:Hold on you guys. I actually have another power. I can see into the future too, but better than Kyle. Let me try it.
+Our reply 1: How can that be? Already?
+Our reply 2: Yes, we see, Mr. Cameron.
+Our reply 3: No! Dude, please! This is my best friend's iPad!  Noo! Okayokay, okay! Their names are Bruce, Tony, and Curt
+Our reply 4: Ey! You can't do that! Ey!
+Our reply 5: Check it out guys, she's taking o- Oh my God, we've got full bush!
+Ground Truth:God dammit, Cartman! You can't keep making up new powers!
+
+Sentence:God dammit, Cartman! You can't keep making up new powers!
+Our reply 1: Excuse me: over here, please? All right, I need all students to join me over here. 
+Our reply 2: God damnit! Now we have to start over!
+Our reply 3: And what are three little fourth graders gonna do about it, huh?!
+Our reply 4: Haha. Oh man, that was great. Okay, go ahead. I'm all out of farts now.  Gahaaa! Derrr!
+Our reply 5: Welcome to Make Your Own Video. All set to rock and roll?
+Ground Truth:Yeah dude, that's like the fifth power you've come up with!
+
+Sentence:Yeah dude, that's like the fifth power you've come up with!
+Our reply 1: Oh, I love it!
+Our reply 2: I'm thinking about it!
+Our reply 3: Man, that shit be burnin' an' shit, manh!
+Our reply 4: Uh, hold it. Is that a Tween Wave band?
+Our reply 5: Can we get a different pose, please? 
+Ground Truth:I am Bulrog and I have lots and lots of powers.
+
+Sentence:I am Bulrog and I have lots and lots of powers.
+Our reply 1: While people play in the sun all day
+Our reply 2: Look, look, why we're here is because it's gonna take all of us, a neighborhood watch, to make sure that our community stays safe.
+Our reply 3: Ohh boy, you are gonna get it now. 
+Our reply 4: Dammit! I just want it to snow again!
+Our reply 5: You can keep a little girl company for 20 quid a day, Pip. And Old Mrs. Havisham is the wealthiest woman in the town. 
+Ground Truth:No asshole! From now on you only get to have one power! So what is it?!
+
+Sentence:No asshole! From now on you only get to have one power! So what is it?!
+Our reply 1: He's a way higher level than us. It isn't fair.
+Our reply 2: What should we ask him?
+Our reply 3: You know, I heard a rumor about some new pimp up in Park County. They say he's real respectful; lots of girls switching over to him.
+Our reply 4: Kyle?
+Our reply 5: Dark deities that existed before man.
+Ground Truth:I have the power to have all the powers I want.
+
+Sentence:I have the power to have all the powers I want.
+Our reply 1: Quickly! Get the scanner running again!  We've got a chance now!
+Our reply 2: Yesuh. Anda what is the Evil Power?  The Evil Power is the United States gorvernment! 
+Our reply 3: What kind of extremists are these? 
+Our reply 4: And we must all stand by the belief,
+Our reply 5: Look! You boys have a chance to help me find and kill ManBearPig once and for all! I'm totally serial!
+Ground Truth:That doesn't count, fatass!
+
+Sentence:That doesn't count, fatass!
+Our reply 1: You see, son, we lump thousands of these Margaritaville installment plans together into Margaritaville-based securities, then chop those securities up in a way that we could sell them to banks.
+Our reply 2: Yes, now get out of here.
+Our reply 3: Um... I guess... I guess that would be okay.
+Our reply 4: He's from Jersey, you guys.  Let's just get away from him.
+Our reply 5: What are you doing?!
+Ground Truth:Yeah, that it, Cartman! You don't get to have any powers!
+
+Sentence:Yeah, that it, Cartman! You don't get to have any powers!
+Our reply 1: All right!  If I don't make it back, tell my mom what happened to me. 
+Our reply 2: Come on, you guys, Al Gore doesn't have any friends. We'll just make an appearance at his little meeting and then we'll go. 
+Our reply 3: Alright, football night, what do you do?
+Get out your camera and a boobie or two.
+Our reply 4: All right, come on! 
+Our reply 5: (This isn't a prank, Kyle!)
+Ground Truth:C'mon!
+
+Sentence:C'mon!
+Our reply 1: (Nuh uh!)
+Our reply 2: (No!)
+Our reply 3: Honestly, I don't see what they find so amusing about those things.
+Our reply 4: Alright, class, I have your school photos to hand out-
+Our reply 5: Got it.
+Ground Truth:Haaa ha ha ha ha!  Well well well! If it isn't the four ninjas!
+
+Sentence:Haaa ha ha ha ha!  Well well well! If it isn't the four ninjas!
+Our reply 1: Hey! You're following plankers and tebowers, so put a loaded gun in your mouth! DO IT!  Everybody take a good look.  This is what you're doing every time you play with Internet memes. You're playing roulette with your lives! 
+Our reply 2: Well, what do you think? Can you help him become a better singer?
+Our reply 3: Behold! You all see my tiny minions groveling at my likeness! I am Eric Cartman, god.
+Our reply 4: Many moons ago, Pony and Eagle walked up to Coyote. Pony said to Coyote, "I am very mad at Eagle. Will you yell at him for me?" Coyote said to Pony, "Why can you not yell yourself?" And Pony replied, "Because I am a little horse." 
+Our reply 5: How's it goin', Gerald?
+Ground Truth:Who the hell is that?
+
+Sentence:Who the hell is that?
+Our reply 1: They're putting an end to it! 
+Our reply 2: Nobody moves, nobody gets hurt!
+Our reply 3: This is Goddamned fake!
+Our reply 4: Oh no it's the Japanese! 
+Our reply 5: We just got rammed.
+Ground Truth:I dunno. Craig, is that you?
+
+Sentence:I dunno. Craig, is that you?
+Our reply 1: "Ta... ta... Taaguh-- Taxi-dermist."  I read it! I read it all by myself! 
+Our reply 2: Hey, isn't that kid Kevin Chinese? 
+Our reply 3: She does. She looks very pretty.
+Our reply 4: What?
+Our reply 5: Let's dance. 
+Ground Truth:Fools!  I am Professor Chaos! Bringer of Destruction and Doom!  Your feeble ninja powers are no match for me!
+
+Sentence:Fools!  I am Professor Chaos! Bringer of Destruction and Doom!  Your feeble ninja powers are no match for me!
+Our reply 1: Ah, my faithful companion in world destruction, General Disarray.
+Our reply 2: The History Channel said you were!
+Our reply 3: Quickly! Get the scanner running again!  We've got a chance now!
+Our reply 4: Yesuh. Anda what is the Evil Power?  The Evil Power is the United States gorvernment! 
+Our reply 5: ...We've gotta get to that church before we die.
+Ground Truth:Whoa.
+
+Sentence:Whoa.
+Our reply 1: And now you shall drink vampire blood, and your transformation will be complete, per se!  With this thy transformation is done. 
+Our reply 2: Do not be afraid. I mean you no harm.
+Our reply 3: Minge, does this mean I have to wait to see Paris?
+Our reply 4: I've worked it all out on Expedia.  We can take Southwest Airlines to Miami, then Dubai Air here to Cairo, and then it's just a 49-hour bus ride into Mogadishu, with all the booty and plunder a pirate could want.
+Our reply 5: Yes! Yehhehehes!
+Ground Truth:Looks like we have a sworn enemy, you guys.
+
+Sentence:Looks like we have a sworn enemy, you guys.
+Our reply 1: Look more closelier.  With laser technology we can look beneath the paint, the way da Vinci originally painted it.  That... is Saint Peter.  The original Pope of Christianity.
+Our reply 2: (Yeah, what's her name?)
+Our reply 3: Does it look like a pig, or an elephant?
+Our reply 4: He's your age and about your height.
+Our reply 5: Wow. 
+Ground Truth:(Yeah.)
+
+Sentence:(Yeah.)
+Our reply 1: Oh my Gohhd.
+Our reply 2: Yeah. 
+Our reply 3: So, what do ya say, girls? You wanna be kid hipsters like us and wear purity rings too?
+Our reply 4: Live from Five News Studio in Colorado, it's Good Mornin' Denver.
+Our reply 5: Yeah.
+Ground Truth:Very well, Professor Chaos! We'll play along. Now, fell the fiery sting of my tonfa of Takanawa!  Hey kid, that knocks you down.
+
+Sentence:Very well, Professor Chaos! We'll play along. Now, fell the fiery sting of my tonfa of Takanawa!  Hey kid, that knocks you down.
+Our reply 1: All right you guys, we've gotta get rid of Finland.
+Our reply 2: Come on, Muhammad, the door is open.
+Our reply 3: This isn't right! He's not a native! He's gonna get killed!
+Our reply 4: Well... if you put it that way...
+Our reply 5: What?? ...No.
+Ground Truth:Nuh uh!
+
+Sentence:Nuh uh!
+Our reply 1: Yeah huh! You heard of the Coon and now you're being a copycat. Is that your name? Copycat?
+Our reply 2: It's true. I'm taking my wife on Saturday bro.
+Our reply 3: Yeahuh huh. I told you never to take the headset off outside the access point, didn't I?! We're actually both in my house right now. You're wearing the headset and I'm talking to you as a computer program. That's why I can... manipulate reality. 
+Our reply 4: Come on, dude! I can do it! I'm sure!
+Our reply 5: Yeah huh!
+Ground Truth:Yeah, huh, I got you!
+
+Sentence:Yeah, huh, I got you!
+Our reply 1: How can people say this game is cool? It doesn't even matter what choices you make.
+Our reply 2: Kenny, that doesn't make me gay, huh?
+Our reply 3: Whoa, look at this kid's coat.  Ey, kid. What's the matter—you a freakin' burn victim or somethin'? What? 
+Our reply 4: You sure?
+Our reply 5: Well... I just wanted to tell you... that I don't think you're a joke. I mean, whatever you used to be, you're just my dad. And you're the best dad I've ever had.
+Ground Truth:Nuh uh! Because my cloak is made of a... titanium alloy that shields me from heat!
+
+Sentence:Nuh uh! Because my cloak is made of a... titanium alloy that shields me from heat!
+Our reply 1: Yeah huh! You heard of the Coon and now you're being a copycat. Is that your name? Copycat?
+Our reply 2: It's true. I'm taking my wife on Saturday bro.
+Our reply 3: Yeahuh huh. I told you never to take the headset off outside the access point, didn't I?! We're actually both in my house right now. You're wearing the headset and I'm talking to you as a computer program. That's why I can... manipulate reality. 
+Our reply 4: Come on, dude! I can do it! I'm sure!
+Our reply 5: Yeah huh!
+Ground Truth:That's bullcrap! Titanium alloy my ass!
+
+Sentence:That's bullcrap! Titanium alloy my ass!
+Our reply 1: Oh boy, it's getting late. I'm gonna have to leave this party.
+Our reply 2: Well, Cartman, this is just my opinion, but I think the Line Ride sucked donkey balls!
+Our reply 3: Well, I sure enjoyed my carrots and protein bar! How about you, gang?
+Our reply 4: (Woohoo!) 
+Our reply 5: Say, did any of you children see the alien space ship last night?
+Ground Truth:Well, let's see how he likes the icy blasts from my nunchucks of Sokuromoto! 
+
+Sentence:Well, let's see how he likes the icy blasts from my nunchucks of Sokuromoto! 
+Our reply 1: How can that be? Already?
+Our reply 2: Ey! You can't do that! Ey!
+Our reply 3: You know what we should do? After us Emos take over the Earth? We should um, paint the White House black. And we should have Fall Out Boy at the Super Bowl. 
+Our reply 4: Check it out guys, she's taking o- Oh my God, we've got full bush!
+Our reply 5: ...Like, you die.
+Ground Truth:Huh nice attempt, ninja! But now both of you shall feel the power of my Web of Holding!  Ha, ha, ha, ha, ha! You are both trapped in spiderwebs! 
+
+Sentence:Huh nice attempt, ninja! But now both of you shall feel the power of my Web of Holding!  Ha, ha, ha, ha, ha! You are both trapped in spiderwebs! 
+Our reply 1: Hey! You're following plankers and tebowers, so put a loaded gun in your mouth! DO IT!  Everybody take a good look.  This is what you're doing every time you play with Internet memes. You're playing roulette with your lives! 
+Our reply 2: Well, what do you think? Can you help him become a better singer?
+Our reply 3: Behold! You all see my tiny minions groveling at my likeness! I am Eric Cartman, god.
+Our reply 4: Many moons ago, Pony and Eagle walked up to Coyote. Pony said to Coyote, "I am very mad at Eagle. Will you yell at him for me?" Coyote said to Pony, "Why can you not yell yourself?" And Pony replied, "Because I am a little horse." 
+Our reply 5: How's it goin', Gerald?
+Ground Truth:All right, dickhole! Time for you to pay!  Oh no! I have no powers! Kyle took them away from me! Quick, Kyle, give me back my powers so I can fight this evil villain!
+
+Sentence:All right, dickhole! Time for you to pay!  Oh no! I have no powers! Kyle took them away from me! Quick, Kyle, give me back my powers so I can fight this evil villain!
+Our reply 1: Aaahh. Well-  AAAAH! 
+Our reply 2: We are gathered here to say goodbye to four kids whom we all tried to help, but, in the end, could not. But where there is loss, there is hope. For ManBearPig is no more.
+Our reply 3: Towelie, over the past few months I have watched you go from an ancillary character with a few amusing catchphrases to a dried out spooge rag covered in the jizz of a thousand older men.
+Our reply 4: Hold on. Ah, I'm, ah... n-not right now. 
+Our reply 5: Dad, if you agree to something but you didn't mean to agree to it, what do you do?!
+Ground Truth:Okay, okay, you can have your powers back.
+
+Sentence:Okay, okay, you can have your powers back.
+Our reply 1: And be sure to give a ring to all the kids you care about, 'cause it's the hip new way to roll.
+Our reply 2: No-o Kyle, you'll be in debt for the rest of your life!  Please, somebody, get him to sto-o-op! 
+Our reply 3: I said, get off my boat!
+Our reply 4: Ubup. Daddy, how come this ho get to be bottom bitch?
+Our reply 5: Alright and now how about you. Your name is?
+Ground Truth:All right! And now I will use my power to...  turn Kyle into a chicken! Bleh! 
+
+Sentence:All right! And now I will use my power to...  turn Kyle into a chicken! Bleh! 
+Our reply 1: And that applies to all of us, doesn't it? Even though it's convenient to have things done for you, sometimes it's best to deal with it yourself. 
+Our reply 2: Cartman, you fucking hunk of fat, rat-fucking hunk of pig-fucking ass fat.
+Our reply 3: So, all of a sudden you Justin and Britney wannabes think it's cool to dress like us?
+Our reply 4: Thank you so much.  Once in a while I come across a book that is sooo honest and sooo moving that it changes my life.  "A Million Little Fibers" is the true story about a man who was born in a laboratory. Please welcome author Stevem McTowelie!  Steven, when I read your book, I thought to myself, "How can a human being go through all this and still turn out okay?"
+Our reply 5: All right, stop it!
+Ground Truth:God dammit Cartman!
+
+Sentence:God dammit Cartman!
+Our reply 1: Excuse me: over here, please? All right, I need all students to join me over here. 
+Our reply 2: Haha. Oh man, that was great. Okay, go ahead. I'm all out of farts now.  Gahaaa! Derrr!
+Our reply 3: Welcome to Make Your Own Video. All set to rock and roll?
+Our reply 4: Stan, are you okay?
+Our reply 5: Oh, please don't take the Lord's Name in vain.
+Ground Truth:Ha, ha, ha, ha, haaa, ha! Now you are a chicken! Nyanyanyanyanyaaa nya!
+
+Sentence:Ha, ha, ha, ha, haaa, ha! Now you are a chicken! Nyanyanyanyanyaaa nya!
+Our reply 1: Hey! You're following plankers and tebowers, so put a loaded gun in your mouth! DO IT!  Everybody take a good look.  This is what you're doing every time you play with Internet memes. You're playing roulette with your lives! 
+Our reply 2: Well, what do you think? Can you help him become a better singer?
+Our reply 3: Behold! You all see my tiny minions groveling at my likeness! I am Eric Cartman, god.
+Our reply 4: Many moons ago, Pony and Eagle walked up to Coyote. Pony said to Coyote, "I am very mad at Eagle. Will you yell at him for me?" Coyote said to Pony, "Why can you not yell yourself?" And Pony replied, "Because I am a little horse." 
+Our reply 5: How's it goin', Gerald?
+Ground Truth:Enough! I grow weary of your foolishness. Professor Chaos cannot be stopped!
+
+Sentence:Enough! I grow weary of your foolishness. Professor Chaos cannot be stopped!
+Our reply 1: Ah, my faithful companion in world destruction, General Disarray.
+Our reply 2: Oh, I'm sorry. Am I making things uncomfortable for you Stan? It's your fault me and Kenny are in this mess!
+Our reply 3: Your blood is tainted with the three J's! Jewish, Jersey and Ginger! Admit it!
+Our reply 4: The Great One.  Cthulhu. He has risen, and soon all will be under his rule. It has all been foretold in the Necronomicon.  Hail Cthulhu! The darkness of the mythos is finally here.  Oh man, these are really good lemon bars. 
+Our reply 5: The History Channel said you were!
+Ground Truth:Oh yeah?! Kenny! Use your ninja star!
+
+Sentence:Oh yeah?! Kenny! Use your ninja star!
+Our reply 1: Yeah, teach me a lesson, daddy!
+Our reply 2: Ohh, he's taking out his penis. Okay, next guy...
+Our reply 3: Yeah. Let's just let him keep believing he's a Chinese man.
+Our reply 4: Okay Kenny, add Eyes of the Beast to your hotbar. Stan, check your fury talents to boost your shots.
+Our reply 5: Look, this is all getting way too big! Tell the movie studio you aren't selling the video to them.
+Ground Truth:(Yeah! Take this, Professor Chaos!)  (Feel my wrath!) 
+
+Sentence:(Yeah! Take this, Professor Chaos!)  (Feel my wrath!) 
+Our reply 1: Oho Damien, you shouldn't be so upset, you know. I know it's hard being the new kid, but the children may accept you someday.
+Our reply 2: Dude, that's my dad!
+Our reply 3: Ah, my faithful companion in world destruction, General Disarray.
+Our reply 4: Oh my Gohhd.
+Our reply 5: Yeah. 
+Ground Truth:Oh, shit, dude!
+
+Sentence:Oh, shit, dude!
+Our reply 1: We aren't going that way!
+Our reply 2: (In Japanese Accent) Here it comes! Oh, it's going to be arot! Hold on, Kairu! I believe in youuuuuu!!! 
+Our reply 3: Jesus, how long before they start this Goddamned thing?! 
+Our reply 4: (I knew you're up to something!)
+Our reply 5: Tom Vilsack?
+Ground Truth:Butters! Oh my God!  Oh, dude! It's stuck in his eye!
+
+Sentence:Butters! Oh my God!  Oh, dude! It's stuck in his eye!
+Our reply 1: 'Scuse me. 'Scuse me! I'd like to return this Margaritaville, please?
+Our reply 2: You know that girl Samantha Dunskin, she can make herself queef whenever she wants.
+Our reply 3: Oh, this is a dream come true. I've always wanted to meet you, Phillip. 
+Our reply 4: The superconducting magnet was stolen sometime last week. Surveillance cameras were able to record the theft on tape and police are now looking for  Princess Leia Organa of Alderaan. Caught here in these photos, the troubled rebel princess is seen taking the superconducting magnet and then appearing disoriented as she tries to find her way out.  If you have any information of Princess Leia's whereabouts, please call your local police department.
+Our reply 5: Aye. They got me bad. Oh, the blood.
+Ground Truth:What the hell did you do that for, Kenny?!
+
+Sentence:What the hell did you do that for, Kenny?!
+Our reply 1: What the hell?  Hey, what the hell are you guys doing here?! This is for mature people only!
+Our reply 2: They're putting an end to it! 
+Our reply 3: Nobody moves, nobody gets hurt!
+Our reply 4: This is Goddamned fake!
+Our reply 5: Oh no it's the Japanese! 
+Ground Truth:(I just threw my ninja star at him.)
+
+Sentence:(I just threw my ninja star at him.)
+Our reply 1: Keep looking. Sometimes it takes your eyes a minute to adjust.
+Our reply 2: Dude, you found another girl's phone number on my cell phone??
+Our reply 3: Clyde threw up on his way home! What makes you think you can put that kind of filth on television?! 
+Our reply 4: He doesn't wanna do it, dude.
+Our reply 5: Foofa, you don't have to show your strange to get attention.
+Ground Truth:It hurts! It hurts! 
+
+Sentence:It hurts! It hurts! 
+Our reply 1: You have the right to remain silent. Now please look at the camera and say "I'm white trash and I'm in trouble."
+Our reply 2: Moo... Moo...Moo...Moo... (Greetings, cows of Earth. We come in peace.)
+Our reply 3: What? 
+Our reply 4: We'll sue you!
+Our reply 5: My babies!
+Ground Truth:Oh man! We are in serious trouble!
+
+Sentence:Oh man! We are in serious trouble!
+Our reply 1: Oh boy.
+Our reply 2: Hey, wow, it's that counselor from elementary school, Mr. Mackey.
+Our reply 3: Well, did you see anything?
+Our reply 4: Speak of the devil! What do you want?
+Our reply 5: Cartman?!
+Ground Truth:Sh shhhh. It's okay, Butters. Calm down. It's not that bad, really.
+
+Sentence:Sh shhhh. It's okay, Butters. Calm down. It's not that bad, really.
+Our reply 1: No Token! Stop beating my daughter! NOOO! 
+Our reply 2: I don't want all these drones everywhere! Nobody does!
+Our reply 3: I am going to my room now! For I must slumber, per se. 
+Our reply 4: I can't do it. Ah, I- I can't do it!
+Our reply 5: And be sure to give a ring to all the kids you care about, 'cause it's the hip new way to roll.
+Ground Truth:But I... But I... But I can't see nothin'. I gotta go to the hospital! 
+
+Sentence:But I... But I... But I can't see nothin'. I gotta go to the hospital! 
+Our reply 1: Okay okay, go ahead.  As I was saying, you all seem to enjoy this show, even though it isn't based in reality. There's much more to life than two young men farting on each other. And throughout history there have always been shows that have come and gone that have been very bad, and usually they get taken right off the air. You see, you should be spending your time enlightening your minds with more intelligent entertainment. 
+Our reply 2: Stupid.
+Our reply 3: Believe me, Butters, you don't wanna see what's up there. Now come on. I'll guide you to a safer location. &lt;/&gt; There you go. Two more steps and you're at the top.  Good.
+Our reply 4: We don't WANNA go!
+Our reply 5: What the hell is this?! Chocolate milk mix?!
+Ground Truth:Okay okay, calm down, Butters! It'll be okay! 
+
+Sentence:Okay okay, calm down, Butters! It'll be okay! 
+Our reply 1: And be sure to give a ring to all the kids you care about, 'cause it's the hip new way to roll.
+Our reply 2: No-o Kyle, you'll be in debt for the rest of your life!  Please, somebody, get him to sto-o-op! 
+Our reply 3: I said, get off my boat!
+Our reply 4: Ubup. Daddy, how come this ho get to be bottom bitch?
+Our reply 5: Alright and now how about you. Your name is?
+Ground Truth:Guys, meeting over here for a second?  All right you guys, we need to stay calm and just do the right thing. We have to kill Butters and bury him in Kyle's backyard.
+
+Sentence:Guys, meeting over here for a second?  All right you guys, we need to stay calm and just do the right thing. We have to kill Butters and bury him in Kyle's backyard.
+Our reply 1: So, all of a sudden you Justin and Britney wannabes think it's cool to dress like us?
+Our reply 2: Thank you so much.  Once in a while I come across a book that is sooo honest and sooo moving that it changes my life.  "A Million Little Fibers" is the true story about a man who was born in a laboratory. Please welcome author Stevem McTowelie!  Steven, when I read your book, I thought to myself, "How can a human being go through all this and still turn out okay?"
+Our reply 3: All right, stop it!
+Our reply 4: Oh my God, look everyone, it's the Coon!
+Our reply 5: This is the first guy to actually make sense. 
+Ground Truth:Dude, shut up!
+
+Sentence:Dude, shut up!
+Our reply 1: There's vampires in the school!
+Our reply 2: You all right, sweetie?
+Our reply 3: He's not a fag!
+Our reply 4: Oh, alright then.  Hey Wendy. Wendy!  Bitch, don't you wanna start makin' some real fuckin' money?
+Our reply 5: I'm spreading ManBearPig awareness. Here, each of you kids take a pamphlet and a bumper sticker.   I hope now you boys see that this is totally serial. The next time, it could be the "real" ManBearPig. Can I just get you to sign the awareness sheet? Just your name and phone number and where you first heard about ManBearPig?
+Ground Truth:I agree with Cartman!
+
+Sentence:I agree with Cartman!
+Our reply 1: You aren't ruining my plans this time, DreamWorks, haha! 
+Our reply 2: I have had it with those loud, annoying, f-f-f f-faggots.
+Our reply 3: You guys, we've got no time! You gotta get me out!! 
+Our reply 4: Oh who cares about some oil spill environment crap?!
+Our reply 5: What do you mean "Not Cartman," dude?
+Ground Truth:What?!
+
+Sentence:What?!
+Our reply 1: Vampires. I've seen them.
+Our reply 2: O creatures of the night, I seek audience to engage with thee in unholy darnation and thus do... a-a-and thus do unto your bidding!
+Our reply 3: Oh, uh... I wanna be a vampire.
+Our reply 4: Well, if he's a vampire, I guess we should drive a stake through his heart.
+Our reply 5: (I'm not really a vampire.)
+Ground Truth:You don't understand what my mom will do to me if she finds out I was playing with weapons!
+
+Sentence:You don't understand what my mom will do to me if she finds out I was playing with weapons!
+Our reply 1: Wha? Wha?
+Our reply 2: It's gonna be alright, Kyle.
+Our reply 3: We understand you just sounded like a freakin' racist!
+Our reply 4: I got them all here for you, Eric! So listen while you got told the truth!
+Our reply 5: When I got pregnant with you, Kyle, your father and I were living with my parents in Newark. We knew we had to get out. Neither of us wanted our child to be from Jersey, so we moved. As far away as we could. But now I realize you can take the fetus out of Jersey, but you can't take Jersey out of the fetus.
+Ground Truth:Just stay still, Butters.
+
+Sentence:Just stay still, Butters.
+Our reply 1: I am going to my room now! For I must slumber, per se. 
+Our reply 2: I can't do it. Ah, I- I can't do it!
+Our reply 3: Oh my God, well how is he doing? Yeah. Yeah, I'm sure. Huh okay, well thank you for telling me, Mr. Stotch, I'll spread the word. Yoeah, you take care. Bye.  We need to cancel our plans, Sharon. There's gonna be an emergency all-parent meeting at the school tonight. 
+Our reply 4: Hey Dad!
+Our reply 5: Oh hey fellas. I'm just watching the Kardashians
+Ground Truth:Ah.  Hwa!  Hwaaaaa!
+
+Sentence:Ah.  Hwa!  Hwaaaaa!
+Our reply 1: Oh! Ow! Wugh! Oh!
+Our reply 2: It must have been very difficult for you, being the one on your planet with his wild theories that Pilgrims and Indians were not of this world.
+Our reply 3: Cartman, we should probably talk about our chances.
+Our reply 4: All right, this! 
+Our reply 5: What the hell do you want?
+Ground Truth:Stop dude! You're gonna scramble his brain!
+
+Sentence:Stop dude! You're gonna scramble his brain!
+Our reply 1: You'd better get us out of here, asshole!
+Our reply 2: Isn't it possible I just want to learn more about the Jewish faith?
+Our reply 3: Something that should have been done a long time ago! 
+Our reply 4: Mooorrrr!
+Our reply 5: Aaaah! 
+Ground Truth:Go ahead and scramble it, then he won't remember it was us.
+
+Sentence:Go ahead and scramble it, then he won't remember it was us.
+Our reply 1: The oil keeps coming out! We've got other rigs now catching fire!
+Our reply 2: What is this? What's going on?
+Our reply 3: Children, we are a national choir called, "Getting Gay With Kids!" We're gonna do a big tour down in Central America to help save the rainforest, and you can be a part of it!
+Our reply 4: Mr. Hat, what do you think you're doing?
+Our reply 5: No, wait.  Perhaps now, we can use their own towel against them. These boys must return to Tynacorp, and we will launch a sneak attack on Tynacorp as well.  You boys can take the towel to Tynacorp's central core, and upload this encryption disk into their system, bringing them down once and for all.
+Ground Truth:You guys can't fix my eyeball! You have to take me to the hospital! 
+
+Sentence:You guys can't fix my eyeball! You have to take me to the hospital! 
+Our reply 1: We got some lunch set up for ya up ahead. Some turkey sandwiches and Diet Double Dew.
+Our reply 2: HOW?!
+Our reply 3: Dude, check it out! It's EA Sports Tiger Woods PGA Tour '11 for Xbox. 
+Our reply 4: Yahtzee!
+Our reply 5: Whoever he is, he is one tough badass.
+Ground Truth:If we take him to the hospital, they're gonna find out what happened.
+
+Sentence:If we take him to the hospital, they're gonna find out what happened.
+Our reply 1: You'd better get us out of here, asshole!
+Our reply 2: Isn't it possible I just want to learn more about the Jewish faith?
+Our reply 3: Something that should have been done a long time ago! 
+Our reply 4: Mooorrrr!
+Our reply 5: Aaaah! 
+Ground Truth:God dammit!
+
+Sentence:God dammit!
+Our reply 1: Excuse me: over here, please? All right, I need all students to join me over here. 
+Our reply 2: Haha. Oh man, that was great. Okay, go ahead. I'm all out of farts now.  Gahaaa! Derrr!
+Our reply 3: Welcome to Make Your Own Video. All set to rock and roll?
+Our reply 4: Stan, are you okay?
+Our reply 5: Oh, please don't take the Lord's Name in vain.
+Ground Truth:God? Please, if you get me out of this, I swear, I will never play with weapons ever again.
+
+Sentence:God? Please, if you get me out of this, I swear, I will never play with weapons ever again.
+Our reply 1: You have sinned!
+Our reply 2: Yes...  The subject is now isolated and shunned.
+Our reply 3: No, I gets it man. Thought things had changed, dog. Thought when we got a black president, things would be different. We gots our black president, but Whitey still don't trust me to use his motherfuckin' phone.
+Our reply 4: Tell him! You almost did before but you got shot by your brother who was a Bronco fan! Tell him!
+Our reply 5: Kyle?
+Ground Truth:Don't be so quick to throw off your ninja responsibility, Kyle.  Now, come on guys, sure, it's easy to be a ninja when everything's going your way, but it's times like these, when the chips are down, that a ninja shows his true character.
+
+Sentence:Don't be so quick to throw off your ninja responsibility, Kyle.  Now, come on guys, sure, it's easy to be a ninja when everything's going your way, but it's times like these, when the chips are down, that a ninja shows his true character.
+Our reply 1: Chef, does poo go to heaven?
+Our reply 2: This is my fault, Stan. I should have never told you the game was fuh fufuh fan-fantastic.
+Our reply 3: What, Cartman?
+Our reply 4: (unintelligible)
+Our reply 5: No! Stop! Bring them back here!
+Ground Truth:Whoa, I'm getting woozy.
+
+Sentence:Whoa, I'm getting woozy.
+Our reply 1: And now you shall drink vampire blood, and your transformation will be complete, per se!  With this thy transformation is done. 
+Our reply 2: Do not be afraid. I mean you no harm.
+Our reply 3: Minge, does this mean I have to wait to see Paris?
+Our reply 4: I've worked it all out on Expedia.  We can take Southwest Airlines to Miami, then Dubai Air here to Cairo, and then it's just a 49-hour bus ride into Mogadishu, with all the booty and plunder a pirate could want.
+Our reply 5: Yes! Yehhehehes!
+Ground Truth:Shut up, Butters.  Now, there's a way out of this. We just have to use our... ninja reasoning. 
+
+Sentence:Shut up, Butters.  Now, there's a way out of this. We just have to use our... ninja reasoning. 
+Our reply 1: The other kids are watching. Look, do what you gotta do. I won't fight back. I just hope that maybe afterwards we can... try to be friends someday.
+Our reply 2: I am going to my room now! For I must slumber, per se. 
+Our reply 3: I can't do it. Ah, I- I can't do it!
+Our reply 4: Oh my God, well how is he doing? Yeah. Yeah, I'm sure. Huh okay, well thank you for telling me, Mr. Stotch, I'll spread the word. Yoeah, you take care. Bye.  We need to cancel our plans, Sharon. There's gonna be an emergency all-parent meeting at the school tonight. 
+Our reply 5: Hey Dad!
+Ground Truth:We... need a doctor... But we can't go to the hospital. Wait a minute. Wait, wait, wait. What about the veterinarian?
+
+Sentence:We... need a doctor... But we can't go to the hospital. Wait a minute. Wait, wait, wait. What about the veterinarian?
+Our reply 1: I heard it too. It was like a, like a ...*pop*
+Our reply 2: Yeah, we make 'em stink. Haha your boat is stinky! Here, th- here, throw one.
+Our reply 3: Ohhhh Gojira! Gojira! 
+Our reply 4: America is back!
+America is back!
+Our reply 5: That's what they're talking about on the news!
+Ground Truth:Dr. Shafley?
+
+Sentence:Dr. Shafley?
+Our reply 1: Yes.
+Our reply 2: I'm afraid I have some bad news. Your son is suffering from Multiple Personality Disorder.
+Our reply 3: You people crazy!  Listen to them! It's true!  Truth hurts, doesn't it, Janus!  Who are you people?! Why are you all here?!
+Our reply 4: We should have just left her alone. But we just had to push her.
+Our reply 5: Hi, uh- our friend has been brainwashed by some fruity little club.
+Ground Truth:He's really old and going blind.
+
+Sentence:He's really old and going blind.
+Our reply 1: Oh what's the hurry?
+Our reply 2: Well, Mom, apparently Butters is gay, finds me very attractive, and, confused about his sexual identity, puked up all over my floor!
+Our reply 3: Really?! Nobody was playing with any fireworks?! 
+Our reply 4: Garrison, you have brought your filth to this town for the last time!
+Our reply 5: There! Look!  It's the Jew. Somehow he got a platinum AmEx with no spending limit.
+Ground Truth:So if we make Butters up to look like a dog...
+
+Sentence:So if we make Butters up to look like a dog...
+Our reply 1: (Yeah, what's her name?)
+Our reply 2: Does it look like a pig, or an elephant?
+Our reply 3: He's your age and about your height.
+Our reply 4: I am going to my room now! For I must slumber, per se. 
+Our reply 5: I can't do it. Ah, I- I can't do it!
+Ground Truth:Oh no.
+
+Sentence:Oh no.
+Our reply 1: 'Scuse me. 'Scuse me! I'd like to return this Margaritaville, please?
+Our reply 2: You know that girl Samantha Dunskin, she can make herself queef whenever she wants.
+Our reply 3: Oh, this is a dream come true. I've always wanted to meet you, Phillip. 
+Our reply 4: The superconducting magnet was stolen sometime last week. Surveillance cameras were able to record the theft on tape and police are now looking for  Princess Leia Organa of Alderaan. Caught here in these photos, the troubled rebel princess is seen taking the superconducting magnet and then appearing disoriented as she tries to find her way out.  If you have any information of Princess Leia's whereabouts, please call your local police department.
+Our reply 5: Aye. They got me bad. Oh, the blood.
+Ground Truth:We might pass him off as our pet.
+
+Sentence:We might pass him off as our pet.
+Our reply 1: That boy too fat to be eating potatoes.
+Our reply 2: Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth! Our drone flew! The battery was drained! The SD card was erased! Butters was the only other person who had access to it! Butters can't use the drone without my supervision! So where does that leave us, Randy??
+Our reply 3: Pass this up.
+Our reply 4: Pass this up.
+Our reply 5: P-huh pass this h-up. 
+Ground Truth:But, but fellas, if I, if I dress up like a dog with a star in my eye, I- I'm gonna get grounded.
+
+Sentence:But, but fellas, if I, if I dress up like a dog with a star in my eye, I- I'm gonna get grounded.
+Our reply 1: Heeheehee, no! 
+Our reply 2: This is a really extravagant party, Satan.
+Our reply 3: I guess we'll have to sneak into his house after he goes to sleep tonight.
+Our reply 4: Butters Butters, calm down! I know a way out of this!
+Our reply 5: What?
+Ground Truth:Shut up, Butters!
+
+Sentence:Shut up, Butters!
+Our reply 1: The other kids are watching. Look, do what you gotta do. I won't fight back. I just hope that maybe afterwards we can... try to be friends someday.
+Our reply 2: I am going to my room now! For I must slumber, per se. 
+Our reply 3: I can't do it. Ah, I- I can't do it!
+Our reply 4: Oh my God, well how is he doing? Yeah. Yeah, I'm sure. Huh okay, well thank you for telling me, Mr. Stotch, I'll spread the word. Yoeah, you take care. Bye.  We need to cancel our plans, Sharon. There's gonna be an emergency all-parent meeting at the school tonight. 
+Our reply 5: Hey Dad!
+Ground Truth:That is the dumbest idea you guys have ever come up with! I'd expect this stupidity out of Cartman, but you, Stan?! Butters needs medical attention right now!
+
+Sentence:That is the dumbest idea you guys have ever come up with! I'd expect this stupidity out of Cartman, but you, Stan?! Butters needs medical attention right now!
+Our reply 1: Hey, Jimmy, what's a B.J.?
+Our reply 2: Hey you guys, you know what they call a Jewish woman's boobs? Jewbs. 
+Our reply 3: I want $500 on the South Park Cows.
+Our reply 4: No! Stop! Bring them back here!
+Our reply 5: Alright, kids, are you ready? Here we go, last race for the state championship in 3, 2, 1, Go! 
+Ground Truth:All right, then you take him to the hospital, Kyle. You take him to the hospital and let your mom find out what happened.
+
+Sentence:All right, then you take him to the hospital, Kyle. You take him to the hospital and let your mom find out what happened.
+Our reply 1: Yes, of course, but we don't have a kidney donor!
+Our reply 2: Sign here, and here, and here, and here, and here.  And here. 
+Our reply 3: Hey! That has no monetary value! What the hell are you taking that for?!
+Our reply 4: Uh, that's okay, Chuck. You just keep watching Christmas specials.
+Our reply 5: Now you go, Baahir. 
+Ground Truth:Hand me the modeling glue. We need more fur over here. 
+
