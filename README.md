@@ -17,3 +17,6 @@
 #### TFIDF.txt ---- TFIDF outputs
 #### LM_similar.txt ---- LM similar sentences outputs
 #### TFIDF_similar.txt ---- TFIDF similar sentences outputs
+
+### Report
+#### IR-Report.pdf ---- Report
